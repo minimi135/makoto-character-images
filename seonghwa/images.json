@@ -1,0 +1,1852 @@
+[
+  {
+    "code": "YS",
+    "name": "윤서현",
+    "role": "총리",
+    "expression": "angry",
+    "file": "seonghwa/img/YS/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/YS/angry.webp",
+    "bytes": 24324,
+    "sha256": "59a7ab7c2fb1b51340967080493465417207b8fdb90707f159310142a51e1be1"
+  },
+  {
+    "code": "YS",
+    "name": "윤서현",
+    "role": "총리",
+    "expression": "curious",
+    "file": "seonghwa/img/YS/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/YS/curious.webp",
+    "bytes": 44056,
+    "sha256": "830da7413d3144a8678a60a61ea5c7ab85d08a58a0c93f039db9b297e61496d1"
+  },
+  {
+    "code": "YS",
+    "name": "윤서현",
+    "role": "총리",
+    "expression": "default",
+    "file": "seonghwa/img/YS/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/YS/default.webp",
+    "bytes": 29520,
+    "sha256": "1651b58e499f3b501e18788de83c1cf925698765b8532eebd11320d7026e7cfb"
+  },
+  {
+    "code": "YS",
+    "name": "윤서현",
+    "role": "총리",
+    "expression": "disdain",
+    "file": "seonghwa/img/YS/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/YS/disdain.webp",
+    "bytes": 25782,
+    "sha256": "6b464aa5fd05852e8638924631549ca29388cacf99d5c35f526ee0fc1051c687"
+  },
+  {
+    "code": "YS",
+    "name": "윤서현",
+    "role": "총리",
+    "expression": "flustered",
+    "file": "seonghwa/img/YS/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/YS/flustered.webp",
+    "bytes": 29458,
+    "sha256": "ab374c1d63b94c7028a9a03ea7d95adaeaaf9767364695c0aa818ecaa82cdc75"
+  },
+  {
+    "code": "YS",
+    "name": "윤서현",
+    "role": "총리",
+    "expression": "happy",
+    "file": "seonghwa/img/YS/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/YS/happy.webp",
+    "bytes": 34124,
+    "sha256": "dd3a988bb6f47b85de98fd2dc3b0152ea4b63fe5fbdfb764ac3e3a270b4317b3"
+  },
+  {
+    "code": "YS",
+    "name": "윤서현",
+    "role": "총리",
+    "expression": "sad",
+    "file": "seonghwa/img/YS/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/YS/sad.webp",
+    "bytes": 26408,
+    "sha256": "0d6367eea38374f42479a81cb243eb7b5ab94ec615d97a3d4afc9316422ae244"
+  },
+  {
+    "code": "YS",
+    "name": "윤서현",
+    "role": "총리",
+    "expression": "shy",
+    "file": "seonghwa/img/YS/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/YS/shy.webp",
+    "bytes": 35996,
+    "sha256": "3be517f297ea592860f2836b9fb046d9e4d173005bc59c0386b6021c25232ded"
+  },
+  {
+    "code": "YS",
+    "name": "윤서현",
+    "role": "총리",
+    "expression": "wary",
+    "file": "seonghwa/img/YS/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/YS/wary.webp",
+    "bytes": 28864,
+    "sha256": "80f693051f7074277f19e4d5315f3519cf6f95517757ea9c97a9c6564b2fe06c"
+  },
+  {
+    "code": "PI",
+    "name": "박인호",
+    "role": "황실근위대 사령관",
+    "expression": "angry",
+    "file": "seonghwa/img/PI/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PI/angry.webp",
+    "bytes": 25016,
+    "sha256": "c9fa83dc5844f905edf6ca19e178452a4e1035e502e2b34ffa24bd5acc88c123"
+  },
+  {
+    "code": "PI",
+    "name": "박인호",
+    "role": "황실근위대 사령관",
+    "expression": "curious",
+    "file": "seonghwa/img/PI/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PI/curious.webp",
+    "bytes": 29056,
+    "sha256": "0bdb3a4fefa4b3c6e068c82d05d509cf3d1a8521c6ac57c2e80980718aca96a2"
+  },
+  {
+    "code": "PI",
+    "name": "박인호",
+    "role": "황실근위대 사령관",
+    "expression": "default",
+    "file": "seonghwa/img/PI/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PI/default.webp",
+    "bytes": 24160,
+    "sha256": "6bc1131c9228122501dd2bffa4bdc830dbcfed7470d94a3065f8319a7211040d"
+  },
+  {
+    "code": "PI",
+    "name": "박인호",
+    "role": "황실근위대 사령관",
+    "expression": "disdain",
+    "file": "seonghwa/img/PI/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PI/disdain.webp",
+    "bytes": 22728,
+    "sha256": "3b56b23ec3b642dc2288482987597098bcc5852af3c5064dff2aa665607861a3"
+  },
+  {
+    "code": "PI",
+    "name": "박인호",
+    "role": "황실근위대 사령관",
+    "expression": "flustered",
+    "file": "seonghwa/img/PI/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PI/flustered.webp",
+    "bytes": 24410,
+    "sha256": "014a9dbbd93449c51fac75c2f157df9bdd6e150a3376c09c38a3a137a49e97a6"
+  },
+  {
+    "code": "PI",
+    "name": "박인호",
+    "role": "황실근위대 사령관",
+    "expression": "happy",
+    "file": "seonghwa/img/PI/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PI/happy.webp",
+    "bytes": 21604,
+    "sha256": "9b8d1d16b32d87811067a53726408acbdf59da26e9756cb5992d81a3756134a7"
+  },
+  {
+    "code": "PI",
+    "name": "박인호",
+    "role": "황실근위대 사령관",
+    "expression": "sad",
+    "file": "seonghwa/img/PI/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PI/sad.webp",
+    "bytes": 26548,
+    "sha256": "40767306e789de31607305c790dfa393caee827736ff1c54d6b4680d039f3cb5"
+  },
+  {
+    "code": "PI",
+    "name": "박인호",
+    "role": "황실근위대 사령관",
+    "expression": "shy",
+    "file": "seonghwa/img/PI/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PI/shy.webp",
+    "bytes": 27872,
+    "sha256": "8647e62afbd726242bce50a7d90410d62f49e2d3c949d62944efa4d7fa870934"
+  },
+  {
+    "code": "PI",
+    "name": "박인호",
+    "role": "황실근위대 사령관",
+    "expression": "wary",
+    "file": "seonghwa/img/PI/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PI/wary.webp",
+    "bytes": 21892,
+    "sha256": "89b6384774f50d5f26a5c5e50f8fa386fcb02c00fab5a5f607388d08797947cb"
+  },
+  {
+    "code": "IS",
+    "name": "임소정",
+    "role": "공화파 헌법학자",
+    "expression": "angry",
+    "file": "seonghwa/img/IS/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IS/angry.webp",
+    "bytes": 65852,
+    "sha256": "8cc6f745b13218d2e7ba27f09be0da75e9518f80f463d55d218c25e6b1a654f3"
+  },
+  {
+    "code": "IS",
+    "name": "임소정",
+    "role": "공화파 헌법학자",
+    "expression": "curious",
+    "file": "seonghwa/img/IS/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IS/curious.webp",
+    "bytes": 75164,
+    "sha256": "d719e758539fcb2e79c87934cebe23e83c278c38a3f7e1304847d51000609ca1"
+  },
+  {
+    "code": "IS",
+    "name": "임소정",
+    "role": "공화파 헌법학자",
+    "expression": "default",
+    "file": "seonghwa/img/IS/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IS/default.webp",
+    "bytes": 53804,
+    "sha256": "5816981aba3ffe146ad7ca09561ba5a89f6ca34036620fb66dd8fe629503f5b5"
+  },
+  {
+    "code": "IS",
+    "name": "임소정",
+    "role": "공화파 헌법학자",
+    "expression": "disdain",
+    "file": "seonghwa/img/IS/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IS/disdain.webp",
+    "bytes": 61840,
+    "sha256": "13c2e90d2e02eb3bdf4784de4612af0e3bdb11dfa7b7579a9aced2f1b6c4d426"
+  },
+  {
+    "code": "IS",
+    "name": "임소정",
+    "role": "공화파 헌법학자",
+    "expression": "flustered",
+    "file": "seonghwa/img/IS/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IS/flustered.webp",
+    "bytes": 64688,
+    "sha256": "ce9a365bb71543398c2b51541b997427488c1e441c2f5fc7cb6a979b4e99a4be"
+  },
+  {
+    "code": "IS",
+    "name": "임소정",
+    "role": "공화파 헌법학자",
+    "expression": "happy",
+    "file": "seonghwa/img/IS/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IS/happy.webp",
+    "bytes": 49682,
+    "sha256": "26fc619b097052a840293994333f3ba0b098df3b87f74482195a97e820f79315"
+  },
+  {
+    "code": "IS",
+    "name": "임소정",
+    "role": "공화파 헌법학자",
+    "expression": "sad",
+    "file": "seonghwa/img/IS/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IS/sad.webp",
+    "bytes": 53624,
+    "sha256": "f949c221fd34e837e19802660661fdea7e3de411c6bdb0f3dcf9eb4fcabe421f"
+  },
+  {
+    "code": "IS",
+    "name": "임소정",
+    "role": "공화파 헌법학자",
+    "expression": "shy",
+    "file": "seonghwa/img/IS/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IS/shy.webp",
+    "bytes": 60426,
+    "sha256": "8e9f3a7caa533b6f6c02dcee6d6fa20b1e394a1030f52fa75cd9397c076fe785"
+  },
+  {
+    "code": "IS",
+    "name": "임소정",
+    "role": "공화파 헌법학자",
+    "expression": "wary",
+    "file": "seonghwa/img/IS/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IS/wary.webp",
+    "bytes": 54800,
+    "sha256": "9ce3f743f5412c22437a9e3ba98461a8e36b628565e29c18fb6915d1d45cf814"
+  },
+  {
+    "code": "JG",
+    "name": "장가은",
+    "role": "민족파 지도자",
+    "expression": "angry",
+    "file": "seonghwa/img/JG/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JG/angry.webp",
+    "bytes": 44582,
+    "sha256": "7be2cad8ef8dac72e9f1e961664a2fc7cd3a46adb8b20016cdf9ac4c9834b78c"
+  },
+  {
+    "code": "JG",
+    "name": "장가은",
+    "role": "민족파 지도자",
+    "expression": "curious",
+    "file": "seonghwa/img/JG/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JG/curious.webp",
+    "bytes": 50036,
+    "sha256": "469a9097e8388fbb789b821d949dc0ff23dcbdfc73912697682c85abc4e931bf"
+  },
+  {
+    "code": "JG",
+    "name": "장가은",
+    "role": "민족파 지도자",
+    "expression": "default",
+    "file": "seonghwa/img/JG/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JG/default.webp",
+    "bytes": 45074,
+    "sha256": "149387fdb817f012ac6f215b05d68c7f74a4e63bd1be5473d59ed3141ad23cf7"
+  },
+  {
+    "code": "JG",
+    "name": "장가은",
+    "role": "민족파 지도자",
+    "expression": "disdain",
+    "file": "seonghwa/img/JG/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JG/disdain.webp",
+    "bytes": 43084,
+    "sha256": "2a3e59ae7ef3b1224fae8acd4ad92d1b7324abe17cda1d57881ea0cb5bf4a840"
+  },
+  {
+    "code": "JG",
+    "name": "장가은",
+    "role": "민족파 지도자",
+    "expression": "flustered",
+    "file": "seonghwa/img/JG/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JG/flustered.webp",
+    "bytes": 40086,
+    "sha256": "af78184e394d86c74ff8ac85d6d5817d5b6c5d244367bedbcaa5b7a025b108a0"
+  },
+  {
+    "code": "JG",
+    "name": "장가은",
+    "role": "민족파 지도자",
+    "expression": "happy",
+    "file": "seonghwa/img/JG/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JG/happy.webp",
+    "bytes": 39062,
+    "sha256": "3a1180f4e8303c1268f3d708e41321957b7bda900a02b4a90aecdfe5bc00145f"
+  },
+  {
+    "code": "JG",
+    "name": "장가은",
+    "role": "민족파 지도자",
+    "expression": "sad",
+    "file": "seonghwa/img/JG/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JG/sad.webp",
+    "bytes": 36036,
+    "sha256": "4f87158f34410a2246cb7bfa063352d4cef1c1be71a1a2ec457195f45ed362f8"
+  },
+  {
+    "code": "JG",
+    "name": "장가은",
+    "role": "민족파 지도자",
+    "expression": "shy",
+    "file": "seonghwa/img/JG/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JG/shy.webp",
+    "bytes": 45372,
+    "sha256": "2e13cc06fa7c3fd4d5d10fd3f32f20db191dcb05376df893510617346a4861cf"
+  },
+  {
+    "code": "JG",
+    "name": "장가은",
+    "role": "민족파 지도자",
+    "expression": "wary",
+    "file": "seonghwa/img/JG/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JG/wary.webp",
+    "bytes": 34326,
+    "sha256": "02299f3d7dccde77dc739ff43bc5a12a387fed7e52e9958ed33e209b243348a4"
+  },
+  {
+    "code": "CM",
+    "name": "최민서",
+    "role": "공화파 지도자",
+    "expression": "angry",
+    "file": "seonghwa/img/CM/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/CM/angry.webp",
+    "bytes": 57340,
+    "sha256": "b8e7f436f191eef16e4de8287546a2a32e6739a5a0cc10abc141613fa4d38fda"
+  },
+  {
+    "code": "CM",
+    "name": "최민서",
+    "role": "공화파 지도자",
+    "expression": "curious",
+    "file": "seonghwa/img/CM/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/CM/curious.webp",
+    "bytes": 61380,
+    "sha256": "4b3095f1d4831799d20cce5d5298d7bd757c42a98b68a11888b37165ed17db4a"
+  },
+  {
+    "code": "CM",
+    "name": "최민서",
+    "role": "공화파 지도자",
+    "expression": "default",
+    "file": "seonghwa/img/CM/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/CM/default.webp",
+    "bytes": 57430,
+    "sha256": "fd23db7d0a360bdb314eae144e7feb74da7db8ff56554fbb3644465fc651df15"
+  },
+  {
+    "code": "CM",
+    "name": "최민서",
+    "role": "공화파 지도자",
+    "expression": "disdain",
+    "file": "seonghwa/img/CM/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/CM/disdain.webp",
+    "bytes": 61580,
+    "sha256": "f401957b9c30fe277173a7de8851706d2dcc574966b26cf16b4c6f6ab68abf5e"
+  },
+  {
+    "code": "CM",
+    "name": "최민서",
+    "role": "공화파 지도자",
+    "expression": "flustered",
+    "file": "seonghwa/img/CM/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/CM/flustered.webp",
+    "bytes": 63400,
+    "sha256": "d32f42096051add3ad125dbb2efdf237b8734bb7efd1d5cbc05d33752fe687d3"
+  },
+  {
+    "code": "CM",
+    "name": "최민서",
+    "role": "공화파 지도자",
+    "expression": "happy",
+    "file": "seonghwa/img/CM/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/CM/happy.webp",
+    "bytes": 56938,
+    "sha256": "cd63bec4ecc2fbdbebf91678a19db8897840ce552ba38ec433d75b3646de054a"
+  },
+  {
+    "code": "CM",
+    "name": "최민서",
+    "role": "공화파 지도자",
+    "expression": "sad",
+    "file": "seonghwa/img/CM/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/CM/sad.webp",
+    "bytes": 53892,
+    "sha256": "69c8d3bd9a731241354894b608a03e99cb4dbb67aefdf73af726af02fa746fc3"
+  },
+  {
+    "code": "CM",
+    "name": "최민서",
+    "role": "공화파 지도자",
+    "expression": "shy",
+    "file": "seonghwa/img/CM/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/CM/shy.webp",
+    "bytes": 50784,
+    "sha256": "07fd6e1252f73248ea62ce1bed914716e24425cb2c4c2734a9d4561001883add"
+  },
+  {
+    "code": "CM",
+    "name": "최민서",
+    "role": "공화파 지도자",
+    "expression": "wary",
+    "file": "seonghwa/img/CM/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/CM/wary.webp",
+    "bytes": 55416,
+    "sha256": "6cf494fde777ae1c61246445ca3bfb2974fcfe31099148521b96ad53e2ad0aa3"
+  },
+  {
+    "code": "OH",
+    "name": "오한별",
+    "role": "노동파 급진 조직가",
+    "expression": "angry",
+    "file": "seonghwa/img/OH/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/OH/angry.webp",
+    "bytes": 35394,
+    "sha256": "85960f96bda2ff3f9cd1d20cf5a0e3dc8e8e3ddaf3a2cf75ac301ce24f3ced89"
+  },
+  {
+    "code": "OH",
+    "name": "오한별",
+    "role": "노동파 급진 조직가",
+    "expression": "curious",
+    "file": "seonghwa/img/OH/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/OH/curious.webp",
+    "bytes": 50926,
+    "sha256": "d9110c19dd31c1c05fe5729addc189bf7ef5102b474af75a54df5e4c1728a03c"
+  },
+  {
+    "code": "OH",
+    "name": "오한별",
+    "role": "노동파 급진 조직가",
+    "expression": "default",
+    "file": "seonghwa/img/OH/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/OH/default.webp",
+    "bytes": 43274,
+    "sha256": "69549c97aa59b20fc10477f2824c48c583a8fdd816d808d996be9bf4dea9c77b"
+  },
+  {
+    "code": "OH",
+    "name": "오한별",
+    "role": "노동파 급진 조직가",
+    "expression": "disdain",
+    "file": "seonghwa/img/OH/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/OH/disdain.webp",
+    "bytes": 31700,
+    "sha256": "80a5075a3321c306f9fbd923aea7be8645174561833f11cb91a4725bac9e8a7a"
+  },
+  {
+    "code": "OH",
+    "name": "오한별",
+    "role": "노동파 급진 조직가",
+    "expression": "flustered",
+    "file": "seonghwa/img/OH/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/OH/flustered.webp",
+    "bytes": 54256,
+    "sha256": "6783895a5a8b65849bfc1d5f90cb7d98e8646f9344edd2963ffb8823ff3df164"
+  },
+  {
+    "code": "OH",
+    "name": "오한별",
+    "role": "노동파 급진 조직가",
+    "expression": "happy",
+    "file": "seonghwa/img/OH/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/OH/happy.webp",
+    "bytes": 41344,
+    "sha256": "0e146f17676d975b6c43e28c8eeccf374d6e8e7889eb7fe6861726b46b52262b"
+  },
+  {
+    "code": "OH",
+    "name": "오한별",
+    "role": "노동파 급진 조직가",
+    "expression": "sad",
+    "file": "seonghwa/img/OH/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/OH/sad.webp",
+    "bytes": 36020,
+    "sha256": "12a4aa94ce4294a65777fd23bb57f71c87addb4ac646e3a72231609de6e61336"
+  },
+  {
+    "code": "OH",
+    "name": "오한별",
+    "role": "노동파 급진 조직가",
+    "expression": "shy",
+    "file": "seonghwa/img/OH/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/OH/shy.webp",
+    "bytes": 59284,
+    "sha256": "090864cf94fd779ca5a6b4e19f5ae42d627619a0c96a7114a7d0ea00fab92e79"
+  },
+  {
+    "code": "OH",
+    "name": "오한별",
+    "role": "노동파 급진 조직가",
+    "expression": "wary",
+    "file": "seonghwa/img/OH/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/OH/wary.webp",
+    "bytes": 39116,
+    "sha256": "65e064396915f0eb076a0fbba481937f46eef72c95e9cab8616ba7b2181e3929"
+  },
+  {
+    "code": "MH",
+    "name": "목화영",
+    "role": "아나키스트 원로",
+    "expression": "angry",
+    "file": "seonghwa/img/MH/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/MH/angry.webp",
+    "bytes": 48312,
+    "sha256": "472492b02e1dfacac1cab8f4f51d0b226a61fab85719477dbdccec30f151ea46"
+  },
+  {
+    "code": "MH",
+    "name": "목화영",
+    "role": "아나키스트 원로",
+    "expression": "curious",
+    "file": "seonghwa/img/MH/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/MH/curious.webp",
+    "bytes": 49338,
+    "sha256": "c9378585a9584704bccfc7be36450380a6c94b5203a158846da3e46a870dabe1"
+  },
+  {
+    "code": "MH",
+    "name": "목화영",
+    "role": "아나키스트 원로",
+    "expression": "default",
+    "file": "seonghwa/img/MH/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/MH/default.webp",
+    "bytes": 34416,
+    "sha256": "14b7143f8e2de6fbe0a427c3b5ed637742d79cb112ae909ee543dbc3cf01b769"
+  },
+  {
+    "code": "MH",
+    "name": "목화영",
+    "role": "아나키스트 원로",
+    "expression": "disdain",
+    "file": "seonghwa/img/MH/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/MH/disdain.webp",
+    "bytes": 42812,
+    "sha256": "066c04ed107374e60ed9529ee4fa16f9cc3b8c6efdd798266ff04f234766cc8f"
+  },
+  {
+    "code": "MH",
+    "name": "목화영",
+    "role": "아나키스트 원로",
+    "expression": "flustered",
+    "file": "seonghwa/img/MH/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/MH/flustered.webp",
+    "bytes": 56694,
+    "sha256": "19144957fe13bf137b598d1fb8937e04c3390cb726585897e1ea7cf457a0eae9"
+  },
+  {
+    "code": "MH",
+    "name": "목화영",
+    "role": "아나키스트 원로",
+    "expression": "happy",
+    "file": "seonghwa/img/MH/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/MH/happy.webp",
+    "bytes": 34854,
+    "sha256": "5165dd8d32ac917b460bfecf40983b9399be04a31d43458f2c60be41c0df739c"
+  },
+  {
+    "code": "MH",
+    "name": "목화영",
+    "role": "아나키스트 원로",
+    "expression": "sad",
+    "file": "seonghwa/img/MH/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/MH/sad.webp",
+    "bytes": 43850,
+    "sha256": "6478d70b4f0804d0be5fc04b021073fbf9497d97ee5408aedd1e26b2004cf448"
+  },
+  {
+    "code": "MH",
+    "name": "목화영",
+    "role": "아나키스트 원로",
+    "expression": "shy",
+    "file": "seonghwa/img/MH/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/MH/shy.webp",
+    "bytes": 40476,
+    "sha256": "4eb8849695d47b10a6af7df459c63963e2824fcdb2e7a3a86893f92a34c587e1"
+  },
+  {
+    "code": "MH",
+    "name": "목화영",
+    "role": "아나키스트 원로",
+    "expression": "wary",
+    "file": "seonghwa/img/MH/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/MH/wary.webp",
+    "bytes": 36908,
+    "sha256": "d190fabe8b877c3debdc9b2d744fbe03aa01a2d6313691bc5b3a47e8a79dbe14"
+  },
+  {
+    "code": "PT",
+    "name": "박태석",
+    "role": "지역자치순찰대 대원",
+    "expression": "angry",
+    "file": "seonghwa/img/PT/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PT/angry.webp",
+    "bytes": 27352,
+    "sha256": "3c306bf167be1325520c7435cbe811ee64788de3b79143f53ee8d536d217e755"
+  },
+  {
+    "code": "PT",
+    "name": "박태석",
+    "role": "지역자치순찰대 대원",
+    "expression": "curious",
+    "file": "seonghwa/img/PT/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PT/curious.webp",
+    "bytes": 34340,
+    "sha256": "0e4e03afdb9c694b11a405dd4f7d1c73bacaa1bd7b4fb192fc80114c2fd305ee"
+  },
+  {
+    "code": "PT",
+    "name": "박태석",
+    "role": "지역자치순찰대 대원",
+    "expression": "default",
+    "file": "seonghwa/img/PT/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PT/default.webp",
+    "bytes": 24814,
+    "sha256": "292d9d241eec4926140cfaf1d2c8b206901fae7543080d3a38befcc46cf13bf5"
+  },
+  {
+    "code": "PT",
+    "name": "박태석",
+    "role": "지역자치순찰대 대원",
+    "expression": "disdain",
+    "file": "seonghwa/img/PT/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PT/disdain.webp",
+    "bytes": 31970,
+    "sha256": "6dd5eee68688866506fead7b376e3a92870aa4ec09fe3185dc53acaf7b8d8477"
+  },
+  {
+    "code": "PT",
+    "name": "박태석",
+    "role": "지역자치순찰대 대원",
+    "expression": "flustered",
+    "file": "seonghwa/img/PT/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PT/flustered.webp",
+    "bytes": 22620,
+    "sha256": "f2c4675c7e5f6d4606ca2a27c97ba3e9af10ff559ebd465f172cac486c79ef34"
+  },
+  {
+    "code": "PT",
+    "name": "박태석",
+    "role": "지역자치순찰대 대원",
+    "expression": "happy",
+    "file": "seonghwa/img/PT/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PT/happy.webp",
+    "bytes": 27906,
+    "sha256": "30383b9ea5e8703bc392ab0508dec57963837e90ba7b4a67abbf8b2951c4e728"
+  },
+  {
+    "code": "PT",
+    "name": "박태석",
+    "role": "지역자치순찰대 대원",
+    "expression": "sad",
+    "file": "seonghwa/img/PT/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PT/sad.webp",
+    "bytes": 29180,
+    "sha256": "74bb0611ead245cfd8def83b02906486fe347e6cef7a2fdd23ac4a6c91677696"
+  },
+  {
+    "code": "PT",
+    "name": "박태석",
+    "role": "지역자치순찰대 대원",
+    "expression": "shy",
+    "file": "seonghwa/img/PT/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PT/shy.webp",
+    "bytes": 30328,
+    "sha256": "5c13bd1769b3ec5524947ef91befd7dd1d371d8a1a95ba83b35f87a2a6dab89c"
+  },
+  {
+    "code": "PT",
+    "name": "박태석",
+    "role": "지역자치순찰대 대원",
+    "expression": "wary",
+    "file": "seonghwa/img/PT/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PT/wary.webp",
+    "bytes": 21568,
+    "sha256": "ffc139fbb6d6831e86d36f036e7e318b5cef28ddeaa78218f7d84a624a68a3dc"
+  },
+  {
+    "code": "BS",
+    "name": "배소원",
+    "role": "구체제를 그리워하는 시골 소녀",
+    "expression": "angry",
+    "file": "seonghwa/img/BS/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/BS/angry.webp",
+    "bytes": 34360,
+    "sha256": "7b04463149f8382f7eacb3635f00c6a2807a3f8c9f289311317ad7cd0e808613"
+  },
+  {
+    "code": "BS",
+    "name": "배소원",
+    "role": "구체제를 그리워하는 시골 소녀",
+    "expression": "default",
+    "file": "seonghwa/img/BS/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/BS/default.webp",
+    "bytes": 28114,
+    "sha256": "d4f32cef5a0ea341985ed9476582aaedd902f6f817527ac5d77ee1af83746500"
+  },
+  {
+    "code": "BS",
+    "name": "배소원",
+    "role": "구체제를 그리워하는 시골 소녀",
+    "expression": "disdain",
+    "file": "seonghwa/img/BS/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/BS/disdain.webp",
+    "bytes": 32552,
+    "sha256": "de9d4a3a97138499b8b2dd5d969b0909cc6f2812a53ea2d46c2540d6e73a0319"
+  },
+  {
+    "code": "BS",
+    "name": "배소원",
+    "role": "구체제를 그리워하는 시골 소녀",
+    "expression": "flustered",
+    "file": "seonghwa/img/BS/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/BS/flustered.webp",
+    "bytes": 41082,
+    "sha256": "a1fa2893bfd8ca7e57d88c213435aee1a3bdf32afa1e7cbf029578c63df80f9d"
+  },
+  {
+    "code": "BS",
+    "name": "배소원",
+    "role": "구체제를 그리워하는 시골 소녀",
+    "expression": "happy",
+    "file": "seonghwa/img/BS/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/BS/happy.webp",
+    "bytes": 37122,
+    "sha256": "d81b5181a6e95b2a8ada87d9f8adf088f3428a12cc589934960e0a4f2c49ac62"
+  },
+  {
+    "code": "JA",
+    "name": "정 아이린",
+    "role": "도주 중인 전 심문관",
+    "expression": "angry",
+    "file": "seonghwa/img/JA/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JA/angry.webp",
+    "bytes": 45320,
+    "sha256": "4ff1b98c75fd016c2e2d880ebfe1273b4864b8c7b8e97076b3ff54489725d626"
+  },
+  {
+    "code": "JA",
+    "name": "정 아이린",
+    "role": "도주 중인 전 심문관",
+    "expression": "curious",
+    "file": "seonghwa/img/JA/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JA/curious.webp",
+    "bytes": 43428,
+    "sha256": "06a01ccd81b75c8eb996cacba7d08530c4aef456b787f19fc5b60e302dcfb7ee"
+  },
+  {
+    "code": "JA",
+    "name": "정 아이린",
+    "role": "도주 중인 전 심문관",
+    "expression": "default",
+    "file": "seonghwa/img/JA/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JA/default.webp",
+    "bytes": 49130,
+    "sha256": "5c443b89818fd5422ed691c6b4a2acdfd59555618c196cd29b4a323d65b273a7"
+  },
+  {
+    "code": "JA",
+    "name": "정 아이린",
+    "role": "도주 중인 전 심문관",
+    "expression": "disdain",
+    "file": "seonghwa/img/JA/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JA/disdain.webp",
+    "bytes": 50170,
+    "sha256": "90127fe808025bb8d54260d01229d54fdcdb0a02b4167423bc5559563d6bbcb6"
+  },
+  {
+    "code": "JA",
+    "name": "정 아이린",
+    "role": "도주 중인 전 심문관",
+    "expression": "flustered",
+    "file": "seonghwa/img/JA/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JA/flustered.webp",
+    "bytes": 53212,
+    "sha256": "fddd04e53f1277751180e3372c875634bbbd60c57149a767a2c6a61af0660568"
+  },
+  {
+    "code": "JA",
+    "name": "정 아이린",
+    "role": "도주 중인 전 심문관",
+    "expression": "happy",
+    "file": "seonghwa/img/JA/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JA/happy.webp",
+    "bytes": 39420,
+    "sha256": "d566075b935f7db0b4ede041a6b98b8f8ff76757fc9e187ad19006382957f8d9"
+  },
+  {
+    "code": "JA",
+    "name": "정 아이린",
+    "role": "도주 중인 전 심문관",
+    "expression": "sad",
+    "file": "seonghwa/img/JA/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JA/sad.webp",
+    "bytes": 37446,
+    "sha256": "29e3dd55824d462fdde97eb8f4a304aeed8f678f7e669a7bd32e4d6af78a8a01"
+  },
+  {
+    "code": "JA",
+    "name": "정 아이린",
+    "role": "도주 중인 전 심문관",
+    "expression": "shy",
+    "file": "seonghwa/img/JA/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JA/shy.webp",
+    "bytes": 49720,
+    "sha256": "165db60b3c67810dd3562c793e843da656513b5424fdf16a6acd6f74b9eb285e"
+  },
+  {
+    "code": "JA",
+    "name": "정 아이린",
+    "role": "도주 중인 전 심문관",
+    "expression": "wary",
+    "file": "seonghwa/img/JA/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/JA/wary.webp",
+    "bytes": 36194,
+    "sha256": "ddb0d31b006f72bf0a6c6278c7a30104e6fafee6abf61b5bee7b977a12f8114d"
+  },
+  {
+    "code": "IV",
+    "name": "이리나 볼코바",
+    "role": "도니카 제국 군사고문",
+    "expression": "angry",
+    "file": "seonghwa/img/IV/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IV/angry.webp",
+    "bytes": 34518,
+    "sha256": "1b91357ae2c8d4025f8e617ffa17826c32a4110cd5d0a928f03c50b1c67a0c41"
+  },
+  {
+    "code": "IV",
+    "name": "이리나 볼코바",
+    "role": "도니카 제국 군사고문",
+    "expression": "curious",
+    "file": "seonghwa/img/IV/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IV/curious.webp",
+    "bytes": 38656,
+    "sha256": "4533f0be3cc734fbbca95f7a11f0b67965c4a5c39a6ff0660105564ba544fbf9"
+  },
+  {
+    "code": "IV",
+    "name": "이리나 볼코바",
+    "role": "도니카 제국 군사고문",
+    "expression": "default",
+    "file": "seonghwa/img/IV/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IV/default.webp",
+    "bytes": 37824,
+    "sha256": "e84993362bebd064b160ea270402df888513e0511f26f21d712cae64e74daaae"
+  },
+  {
+    "code": "IV",
+    "name": "이리나 볼코바",
+    "role": "도니카 제국 군사고문",
+    "expression": "disdain",
+    "file": "seonghwa/img/IV/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IV/disdain.webp",
+    "bytes": 40170,
+    "sha256": "c1e38ac560c72be758784f2c37c5d98ba017b9f0b85cbab01f7bfadb115599f6"
+  },
+  {
+    "code": "IV",
+    "name": "이리나 볼코바",
+    "role": "도니카 제국 군사고문",
+    "expression": "flustered",
+    "file": "seonghwa/img/IV/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IV/flustered.webp",
+    "bytes": 45242,
+    "sha256": "896320dc3444fb0107fc3e2df0df30dbb96f71b74bf44f3f8e781fec8565b16d"
+  },
+  {
+    "code": "IV",
+    "name": "이리나 볼코바",
+    "role": "도니카 제국 군사고문",
+    "expression": "happy",
+    "file": "seonghwa/img/IV/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IV/happy.webp",
+    "bytes": 35766,
+    "sha256": "754700ecb67b2c2203b38dd757fa0333ca8a14b40084a83ad1a506a1fb060a83"
+  },
+  {
+    "code": "IV",
+    "name": "이리나 볼코바",
+    "role": "도니카 제국 군사고문",
+    "expression": "sad",
+    "file": "seonghwa/img/IV/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IV/sad.webp",
+    "bytes": 39194,
+    "sha256": "1ac5437bae62e71c1c43db3c4c553a019ab29eaf005fff0387e6559ce533b22d"
+  },
+  {
+    "code": "IV",
+    "name": "이리나 볼코바",
+    "role": "도니카 제국 군사고문",
+    "expression": "shy",
+    "file": "seonghwa/img/IV/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IV/shy.webp",
+    "bytes": 38314,
+    "sha256": "98a411307b004a47b5177445ff2b5dc9ef64d6851e240bb9927761cafefd93b7"
+  },
+  {
+    "code": "IV",
+    "name": "이리나 볼코바",
+    "role": "도니카 제국 군사고문",
+    "expression": "wary",
+    "file": "seonghwa/img/IV/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IV/wary.webp",
+    "bytes": 41790,
+    "sha256": "3ec8e18b2d3a64991ba1b4a5b3a10801e0271e58b04ae6e1da65435ce1ccbd72"
+  },
+  {
+    "code": "SE",
+    "name": "서은지",
+    "role": "아나키스트 지도자",
+    "expression": "angry",
+    "file": "seonghwa/img/SE/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SE/angry.webp",
+    "bytes": 33328,
+    "sha256": "86d8321a5d41bc5231724b7296aa98e9da66433a6f6472a9fcfe58cd46dbaae2"
+  },
+  {
+    "code": "SE",
+    "name": "서은지",
+    "role": "아나키스트 지도자",
+    "expression": "curious",
+    "file": "seonghwa/img/SE/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SE/curious.webp",
+    "bytes": 40828,
+    "sha256": "ff2d659ba35974d8fec30c93db436a65762916ebdcbb6f7689a2b5e4e608ef77"
+  },
+  {
+    "code": "SE",
+    "name": "서은지",
+    "role": "아나키스트 지도자",
+    "expression": "default",
+    "file": "seonghwa/img/SE/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SE/default.webp",
+    "bytes": 25336,
+    "sha256": "82248bf68a4d77fc7286d5d774ff4a33a7031bb803fc7a54b6634063ab16624f"
+  },
+  {
+    "code": "SE",
+    "name": "서은지",
+    "role": "아나키스트 지도자",
+    "expression": "disdain",
+    "file": "seonghwa/img/SE/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SE/disdain.webp",
+    "bytes": 30752,
+    "sha256": "bc7d585b5c385a2d32c2bd0ab84b96a1e4e58cdca6b0517e224ed5371e28323f"
+  },
+  {
+    "code": "SE",
+    "name": "서은지",
+    "role": "아나키스트 지도자",
+    "expression": "flustered",
+    "file": "seonghwa/img/SE/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SE/flustered.webp",
+    "bytes": 33984,
+    "sha256": "b68ef9313ea72202be507d099bd91caab2cba54b25ac9e681016dcdf5af556df"
+  },
+  {
+    "code": "SE",
+    "name": "서은지",
+    "role": "아나키스트 지도자",
+    "expression": "happy",
+    "file": "seonghwa/img/SE/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SE/happy.webp",
+    "bytes": 30068,
+    "sha256": "738c206d0f9b11d38d921580e97580d5ede56f81d6d7d19b9f4752e8d02d28d5"
+  },
+  {
+    "code": "SE",
+    "name": "서은지",
+    "role": "아나키스트 지도자",
+    "expression": "sad",
+    "file": "seonghwa/img/SE/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SE/sad.webp",
+    "bytes": 25802,
+    "sha256": "af2771108b6e78f994a3b2788f406109785aebfb0c45d780f391da5cf7eb5d07"
+  },
+  {
+    "code": "SE",
+    "name": "서은지",
+    "role": "아나키스트 지도자",
+    "expression": "shy",
+    "file": "seonghwa/img/SE/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SE/shy.webp",
+    "bytes": 24558,
+    "sha256": "44fa124fc25a1bbe79b2bc7b1dc517c189bed2165d9a042ac9142403d3e4cb4d"
+  },
+  {
+    "code": "SE",
+    "name": "서은지",
+    "role": "아나키스트 지도자",
+    "expression": "wary",
+    "file": "seonghwa/img/SE/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SE/wary.webp",
+    "bytes": 30752,
+    "sha256": "bc7d585b5c385a2d32c2bd0ab84b96a1e4e58cdca6b0517e224ed5371e28323f"
+  },
+  {
+    "code": "DR",
+    "name": "다니엘 로스",
+    "role": "IPL 인도주의 의료팀장",
+    "expression": "angry",
+    "file": "seonghwa/img/DR/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/DR/angry.webp",
+    "bytes": 35210,
+    "sha256": "bf0200f24064cbabfa365e273141469abf3ebd4b40bbda681273e1bdada7c723"
+  },
+  {
+    "code": "DR",
+    "name": "다니엘 로스",
+    "role": "IPL 인도주의 의료팀장",
+    "expression": "curious",
+    "file": "seonghwa/img/DR/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/DR/curious.webp",
+    "bytes": 44766,
+    "sha256": "4d3a035f64e88f7b2550288346d851ca4058d7d379fc188ab527dbe74815afd6"
+  },
+  {
+    "code": "DR",
+    "name": "다니엘 로스",
+    "role": "IPL 인도주의 의료팀장",
+    "expression": "default",
+    "file": "seonghwa/img/DR/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/DR/default.webp",
+    "bytes": 34488,
+    "sha256": "89e9d4306991bb296ef9a19f04fa66cc192a728d3b31ac6c49e9910faef932f2"
+  },
+  {
+    "code": "DR",
+    "name": "다니엘 로스",
+    "role": "IPL 인도주의 의료팀장",
+    "expression": "disdain",
+    "file": "seonghwa/img/DR/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/DR/disdain.webp",
+    "bytes": 42656,
+    "sha256": "2bdc2ad65fb824d0157c479faec178b214a84a07251bc601e999f502182a5596"
+  },
+  {
+    "code": "DR",
+    "name": "다니엘 로스",
+    "role": "IPL 인도주의 의료팀장",
+    "expression": "flustered",
+    "file": "seonghwa/img/DR/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/DR/flustered.webp",
+    "bytes": 45220,
+    "sha256": "949ba048e8a18d82849572dbce988d7c04de930ad871387cc80aec18a9565781"
+  },
+  {
+    "code": "DR",
+    "name": "다니엘 로스",
+    "role": "IPL 인도주의 의료팀장",
+    "expression": "happy",
+    "file": "seonghwa/img/DR/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/DR/happy.webp",
+    "bytes": 35448,
+    "sha256": "a25c581b73327fed54fc2053e77a4e26d1319d7428789336d5aaaaeafc456408"
+  },
+  {
+    "code": "DR",
+    "name": "다니엘 로스",
+    "role": "IPL 인도주의 의료팀장",
+    "expression": "sad",
+    "file": "seonghwa/img/DR/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/DR/sad.webp",
+    "bytes": 33288,
+    "sha256": "5dd50cdbf0c41f4506a4fa36089a5fd4df1ecd1750255e2c08f85af93e81c0a8"
+  },
+  {
+    "code": "DR",
+    "name": "다니엘 로스",
+    "role": "IPL 인도주의 의료팀장",
+    "expression": "shy",
+    "file": "seonghwa/img/DR/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/DR/shy.webp",
+    "bytes": 33964,
+    "sha256": "9e59cfc669f9725bb0455e4554b401a574280f3bcef8b0764d9c6b80a1bec64e"
+  },
+  {
+    "code": "DR",
+    "name": "다니엘 로스",
+    "role": "IPL 인도주의 의료팀장",
+    "expression": "wary",
+    "file": "seonghwa/img/DR/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/DR/wary.webp",
+    "bytes": 33408,
+    "sha256": "2ed16c25ebe5611920c78e742c05ffbb2971061e50499f6ede33b51f5bb91ba9"
+  },
+  {
+    "code": "KS",
+    "name": "김석철",
+    "role": "국방장관",
+    "expression": "angry",
+    "file": "seonghwa/img/KS/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/KS/angry.webp",
+    "bytes": 40408,
+    "sha256": "bf02946d56d8400670e9bf196c43964ebce04b8b24867ea54ea02823e34d9d9a"
+  },
+  {
+    "code": "KS",
+    "name": "김석철",
+    "role": "국방장관",
+    "expression": "curious",
+    "file": "seonghwa/img/KS/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/KS/curious.webp",
+    "bytes": 36844,
+    "sha256": "ab6717e3a52c64e3d771d15c2548d8e0bfa689e3374c760c798c3a31b31a6cac"
+  },
+  {
+    "code": "KS",
+    "name": "김석철",
+    "role": "국방장관",
+    "expression": "default",
+    "file": "seonghwa/img/KS/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/KS/default.webp",
+    "bytes": 39268,
+    "sha256": "4c9ccf62ee9ede6a7052232d0a4e36152781c6254893855cfb41fc1cd11d0811"
+  },
+  {
+    "code": "KS",
+    "name": "김석철",
+    "role": "국방장관",
+    "expression": "disdain",
+    "file": "seonghwa/img/KS/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/KS/disdain.webp",
+    "bytes": 51154,
+    "sha256": "f3bfb66599565811922ba051c4d76c388f6beb2ef4117a30539f8fdeb3da9007"
+  },
+  {
+    "code": "KS",
+    "name": "김석철",
+    "role": "국방장관",
+    "expression": "flustered",
+    "file": "seonghwa/img/KS/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/KS/flustered.webp",
+    "bytes": 34368,
+    "sha256": "63eb6067744d236165f0f2e4c3dae8e4b18bd6a0f6ec5534d6a9bede33c00913"
+  },
+  {
+    "code": "KS",
+    "name": "김석철",
+    "role": "국방장관",
+    "expression": "happy",
+    "file": "seonghwa/img/KS/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/KS/happy.webp",
+    "bytes": 39532,
+    "sha256": "edb6d749861d471ea51c19d2b3ed9fd96b8859e49e6e74c1839c62878588a0d2"
+  },
+  {
+    "code": "KS",
+    "name": "김석철",
+    "role": "국방장관",
+    "expression": "sad",
+    "file": "seonghwa/img/KS/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/KS/sad.webp",
+    "bytes": 43844,
+    "sha256": "8d8dccbe867d2ab5602daba1dd5309dbd0d137e02bd185624c8467499b689cd0"
+  },
+  {
+    "code": "KS",
+    "name": "김석철",
+    "role": "국방장관",
+    "expression": "shy",
+    "file": "seonghwa/img/KS/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/KS/shy.webp",
+    "bytes": 38738,
+    "sha256": "30b52e78c199e62b4ac06362926bce6edcb98350dfd717cfd3e7789098adf224"
+  },
+  {
+    "code": "KS",
+    "name": "김석철",
+    "role": "국방장관",
+    "expression": "wary",
+    "file": "seonghwa/img/KS/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/KS/wary.webp",
+    "bytes": 34230,
+    "sha256": "656ce092f3060f61e31a8e5037a3448c289a36ebd7b213545518bbf1aa7880fe"
+  },
+  {
+    "code": "SY",
+    "name": "이서연",
+    "role": "정보관리국장(실제 모습)",
+    "expression": "angry",
+    "file": "seonghwa/img/SY/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SY/angry.webp",
+    "bytes": 39910,
+    "sha256": "540ddef8a3c71c7ce1856ff2abe0bfc647e5e023cc79b8a79487ccd3483bddaf"
+  },
+  {
+    "code": "SY",
+    "name": "이서연",
+    "role": "정보관리국장(실제 모습)",
+    "expression": "curious",
+    "file": "seonghwa/img/SY/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SY/curious.webp",
+    "bytes": 48692,
+    "sha256": "305ca811f655911f0534b72a94103e8278549be3ecc8cacf5b29f54a86123e20"
+  },
+  {
+    "code": "SY",
+    "name": "이서연",
+    "role": "정보관리국장(실제 모습)",
+    "expression": "default",
+    "file": "seonghwa/img/SY/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SY/default.webp",
+    "bytes": 47600,
+    "sha256": "316d1f2532089f609fe3c7d422f919deb1c737cf771fdffed7d67c91da52a5dd"
+  },
+  {
+    "code": "SY",
+    "name": "이서연",
+    "role": "정보관리국장(실제 모습)",
+    "expression": "disdain",
+    "file": "seonghwa/img/SY/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SY/disdain.webp",
+    "bytes": 51018,
+    "sha256": "db5780f6a724a4027b9cb6a13ea9a569854d4202dc99e2d27444758b779d9842"
+  },
+  {
+    "code": "SY",
+    "name": "이서연",
+    "role": "정보관리국장(실제 모습)",
+    "expression": "flustered",
+    "file": "seonghwa/img/SY/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SY/flustered.webp",
+    "bytes": 56212,
+    "sha256": "302c57f7af2a0de3571318ada5cc8ef9b65605ff26b7a72b7824fb7fd0f86b31"
+  },
+  {
+    "code": "SY",
+    "name": "이서연",
+    "role": "정보관리국장(실제 모습)",
+    "expression": "happy",
+    "file": "seonghwa/img/SY/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SY/happy.webp",
+    "bytes": 42306,
+    "sha256": "86bdcd71d3952faae733934a5290ea5739a62dee7f4c3426370fe8456ec1bdf3"
+  },
+  {
+    "code": "SY",
+    "name": "이서연",
+    "role": "정보관리국장(실제 모습)",
+    "expression": "sad",
+    "file": "seonghwa/img/SY/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SY/sad.webp",
+    "bytes": 45994,
+    "sha256": "30b96988b135ed53987ae8b1d4c15050e34a47a3b63f5f26f0cf607a327841f4"
+  },
+  {
+    "code": "SY",
+    "name": "이서연",
+    "role": "정보관리국장(실제 모습)",
+    "expression": "shy",
+    "file": "seonghwa/img/SY/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SY/shy.webp",
+    "bytes": 46110,
+    "sha256": "3159303be6e9dac92ce5d5f4a2c004da8868b6cedb6a02b4f2d5c2fc0d9fe30e"
+  },
+  {
+    "code": "SY",
+    "name": "이서연",
+    "role": "정보관리국장(실제 모습)",
+    "expression": "wary",
+    "file": "seonghwa/img/SY/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SY/wary.webp",
+    "bytes": 44448,
+    "sha256": "66abf091894cea5a8aeccdc7963cf713578556c57cd33447026617cd9343be32"
+  },
+  {
+    "code": "HJ",
+    "name": "한지원",
+    "role": "민족파 정치장교",
+    "expression": "angry",
+    "file": "seonghwa/img/HJ/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/HJ/angry.webp",
+    "bytes": 33202,
+    "sha256": "7d890c7cf3cad771eba14c377216a8fe34c02030e23535828389181a8b7c3a69"
+  },
+  {
+    "code": "HJ",
+    "name": "한지원",
+    "role": "민족파 정치장교",
+    "expression": "curious",
+    "file": "seonghwa/img/HJ/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/HJ/curious.webp",
+    "bytes": 35430,
+    "sha256": "15ddabe872cbd09231b04d6063a6e63961173e35f1e23297fc9fe63d6a309ab5"
+  },
+  {
+    "code": "HJ",
+    "name": "한지원",
+    "role": "민족파 정치장교",
+    "expression": "default",
+    "file": "seonghwa/img/HJ/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/HJ/default.webp",
+    "bytes": 35036,
+    "sha256": "c653ae1a8ce96cd73c8de41b2243a702bfc2a012eec99f2cfcafa6e0c16a6b29"
+  },
+  {
+    "code": "HJ",
+    "name": "한지원",
+    "role": "민족파 정치장교",
+    "expression": "disdain",
+    "file": "seonghwa/img/HJ/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/HJ/disdain.webp",
+    "bytes": 36038,
+    "sha256": "81d2c144cf614c4effd99ff51b1c3803ebf94a31c6614efe65e5d893f4bdc922"
+  },
+  {
+    "code": "HJ",
+    "name": "한지원",
+    "role": "민족파 정치장교",
+    "expression": "flustered",
+    "file": "seonghwa/img/HJ/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/HJ/flustered.webp",
+    "bytes": 37462,
+    "sha256": "ccfdb077d872a79e94a138b6486a7add40c8805ae6dd25396bbdf7dca7bd85a2"
+  },
+  {
+    "code": "HJ",
+    "name": "한지원",
+    "role": "민족파 정치장교",
+    "expression": "happy",
+    "file": "seonghwa/img/HJ/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/HJ/happy.webp",
+    "bytes": 35358,
+    "sha256": "ee7d908c2ddb3cfc01b6df5c28b0facc0ce2d0d5691b3cc1ec29a01ea95a36da"
+  },
+  {
+    "code": "HJ",
+    "name": "한지원",
+    "role": "민족파 정치장교",
+    "expression": "sad",
+    "file": "seonghwa/img/HJ/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/HJ/sad.webp",
+    "bytes": 40646,
+    "sha256": "3da567363bbc7afcbbf122c6106b7b67507be4c3fc3848111d2b2e3ecd956322"
+  },
+  {
+    "code": "HJ",
+    "name": "한지원",
+    "role": "민족파 정치장교",
+    "expression": "shy",
+    "file": "seonghwa/img/HJ/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/HJ/shy.webp",
+    "bytes": 40252,
+    "sha256": "dabeb230941730659ef34b682d963312249bed627147b5ae6541d98d96cacb19"
+  },
+  {
+    "code": "HJ",
+    "name": "한지원",
+    "role": "민족파 정치장교",
+    "expression": "wary",
+    "file": "seonghwa/img/HJ/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/HJ/wary.webp",
+    "bytes": 38210,
+    "sha256": "b7f3a68983ca798baad4fd9db316bf8f405744c71c14fac10afe51e08cc15082"
+  },
+  {
+    "code": "GD",
+    "name": "강덕수",
+    "role": "노동파 지도자",
+    "expression": "angry",
+    "file": "seonghwa/img/GD/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/GD/angry.webp",
+    "bytes": 28578,
+    "sha256": "21fc3741b16e7d7a09b8246c4bf34b3ee5905cbea0bb14d68971acc0a011a420"
+  },
+  {
+    "code": "GD",
+    "name": "강덕수",
+    "role": "노동파 지도자",
+    "expression": "curious",
+    "file": "seonghwa/img/GD/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/GD/curious.webp",
+    "bytes": 36442,
+    "sha256": "1cbe880d81cb59db6cf9094a612b5a2672a5c132146641669b5d25c690bb0611"
+  },
+  {
+    "code": "GD",
+    "name": "강덕수",
+    "role": "노동파 지도자",
+    "expression": "default",
+    "file": "seonghwa/img/GD/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/GD/default.webp",
+    "bytes": 35928,
+    "sha256": "a6971c3070863bf7c63d48ba8c8f81f5c8ca6d020efd25b99981b7732a5e8128"
+  },
+  {
+    "code": "GD",
+    "name": "강덕수",
+    "role": "노동파 지도자",
+    "expression": "disdain",
+    "file": "seonghwa/img/GD/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/GD/disdain.webp",
+    "bytes": 37072,
+    "sha256": "b93241da310478f8aea28091df80912f5dbc24386d0261fe3f97405306a25277"
+  },
+  {
+    "code": "GD",
+    "name": "강덕수",
+    "role": "노동파 지도자",
+    "expression": "flustered",
+    "file": "seonghwa/img/GD/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/GD/flustered.webp",
+    "bytes": 35532,
+    "sha256": "a3e497e75d51a0835cd5b40a48d112f78b2a7cb61720592d36126efee2a4b81b"
+  },
+  {
+    "code": "GD",
+    "name": "강덕수",
+    "role": "노동파 지도자",
+    "expression": "happy",
+    "file": "seonghwa/img/GD/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/GD/happy.webp",
+    "bytes": 42968,
+    "sha256": "5cf27a5804990c2eee94a78109bc4bfb9dc131eba2c9b99605fa1d12fa74f425"
+  },
+  {
+    "code": "GD",
+    "name": "강덕수",
+    "role": "노동파 지도자",
+    "expression": "sad",
+    "file": "seonghwa/img/GD/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/GD/sad.webp",
+    "bytes": 40076,
+    "sha256": "28805216c5fa0e47c3414eeba374510fec8a7554b4a40417d981c0e5b58db675"
+  },
+  {
+    "code": "GD",
+    "name": "강덕수",
+    "role": "노동파 지도자",
+    "expression": "shy",
+    "file": "seonghwa/img/GD/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/GD/shy.webp",
+    "bytes": 41740,
+    "sha256": "1e914b2a2a5ea4a0f6461a4e069f4a7c635670f4058293bde7727fbaf3e784b1"
+  },
+  {
+    "code": "GD",
+    "name": "강덕수",
+    "role": "노동파 지도자",
+    "expression": "wary",
+    "file": "seonghwa/img/GD/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/GD/wary.webp",
+    "bytes": 35086,
+    "sha256": "b796b179132ec50887daa35393955ed93f7f9fbd68a62fc922f2a50ff42bb6f2"
+  },
+  {
+    "code": "SA",
+    "name": "이솔아",
+    "role": "지역자치순찰대",
+    "expression": "angry",
+    "file": "seonghwa/img/SA/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SA/angry.webp",
+    "bytes": 43072,
+    "sha256": "9a13f08b2248fca90226e77c54f5da249683b1ceca74afbbd4649df759bc785a"
+  },
+  {
+    "code": "SA",
+    "name": "이솔아",
+    "role": "지역자치순찰대",
+    "expression": "curious",
+    "file": "seonghwa/img/SA/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SA/curious.webp",
+    "bytes": 50262,
+    "sha256": "4134e464f8a84353f9bdaa569cd3f313b6352455c2a7638ebdc56665e02bb677"
+  },
+  {
+    "code": "SA",
+    "name": "이솔아",
+    "role": "지역자치순찰대",
+    "expression": "default",
+    "file": "seonghwa/img/SA/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SA/default.webp",
+    "bytes": 37388,
+    "sha256": "d79be408eb0004677ce5bbf1848cde818c9dc3ace8a759fc6d17f7f029f1bb1d"
+  },
+  {
+    "code": "SA",
+    "name": "이솔아",
+    "role": "지역자치순찰대",
+    "expression": "disdain",
+    "file": "seonghwa/img/SA/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SA/disdain.webp",
+    "bytes": 40810,
+    "sha256": "7285130e1bd8af76ec13c15c0cd3b8e2ecc117435fc8e8ac2a553ab8eb9c794c"
+  },
+  {
+    "code": "SA",
+    "name": "이솔아",
+    "role": "지역자치순찰대",
+    "expression": "flustered",
+    "file": "seonghwa/img/SA/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SA/flustered.webp",
+    "bytes": 45502,
+    "sha256": "ae2950ecd0ed88629fa10a1561357a8a1cd8b8e8265cebd6485d065259c3955b"
+  },
+  {
+    "code": "SA",
+    "name": "이솔아",
+    "role": "지역자치순찰대",
+    "expression": "happy",
+    "file": "seonghwa/img/SA/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SA/happy.webp",
+    "bytes": 41366,
+    "sha256": "fcbacd3aeaaca2b68eb16adc4905c05b26c08322a9b74caa2b1e1426e8dbdcd0"
+  },
+  {
+    "code": "SA",
+    "name": "이솔아",
+    "role": "지역자치순찰대",
+    "expression": "sad",
+    "file": "seonghwa/img/SA/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SA/sad.webp",
+    "bytes": 37888,
+    "sha256": "751f4c5bb6f10bf562f71a02f8c18ed084334e1f39f965f5d5b0757fba398c50"
+  },
+  {
+    "code": "SA",
+    "name": "이솔아",
+    "role": "지역자치순찰대",
+    "expression": "shy",
+    "file": "seonghwa/img/SA/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SA/shy.webp",
+    "bytes": 36718,
+    "sha256": "211de96003550efcf6a8e1867490a0fbf6105c36a01ef52502b4cb665c4bb163"
+  },
+  {
+    "code": "SA",
+    "name": "이솔아",
+    "role": "지역자치순찰대",
+    "expression": "wary",
+    "file": "seonghwa/img/SA/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/SA/wary.webp",
+    "bytes": 45530,
+    "sha256": "a9be9f98f5d166d71cfc04c0c348c0529a7639a2e6f3a1e3075f2465db3d0edd"
+  },
+  {
+    "code": "IT",
+    "name": "이태은",
+    "role": "지역자치순찰대 조직가",
+    "expression": "angry",
+    "file": "seonghwa/img/IT/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IT/angry.webp",
+    "bytes": 53118,
+    "sha256": "b9f773bfa3119303dc2873d9503f42e0d540218dffa5c53879ea4e2c4efe40df"
+  },
+  {
+    "code": "IT",
+    "name": "이태은",
+    "role": "지역자치순찰대 조직가",
+    "expression": "curious",
+    "file": "seonghwa/img/IT/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IT/curious.webp",
+    "bytes": 63146,
+    "sha256": "a09e365960ed2bd0266214bf4a953bdea0f58e64e3a2f8073188fbe6e3c376a3"
+  },
+  {
+    "code": "IT",
+    "name": "이태은",
+    "role": "지역자치순찰대 조직가",
+    "expression": "default",
+    "file": "seonghwa/img/IT/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IT/default.webp",
+    "bytes": 51088,
+    "sha256": "9f3224237067153bbc45fd8003f4ad193717bcd6331c91b7cf8258f63af04704"
+  },
+  {
+    "code": "IT",
+    "name": "이태은",
+    "role": "지역자치순찰대 조직가",
+    "expression": "disdain",
+    "file": "seonghwa/img/IT/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IT/disdain.webp",
+    "bytes": 46514,
+    "sha256": "a00b92d5402f74aa7258a0e9ea586b68d84cf51e5054b23dd91f0f1ffd9ef01a"
+  },
+  {
+    "code": "IT",
+    "name": "이태은",
+    "role": "지역자치순찰대 조직가",
+    "expression": "flustered",
+    "file": "seonghwa/img/IT/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IT/flustered.webp",
+    "bytes": 48150,
+    "sha256": "3d8fec0d6bf9a1d70224f600f9152da8afe6cb9c06a6905003e986d6e30a5b56"
+  },
+  {
+    "code": "IT",
+    "name": "이태은",
+    "role": "지역자치순찰대 조직가",
+    "expression": "happy",
+    "file": "seonghwa/img/IT/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IT/happy.webp",
+    "bytes": 57954,
+    "sha256": "e1c727dd095f26fcc78eea7fa390bdcbac25b190f88acd81104f2f926d6f725c"
+  },
+  {
+    "code": "IT",
+    "name": "이태은",
+    "role": "지역자치순찰대 조직가",
+    "expression": "sad",
+    "file": "seonghwa/img/IT/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IT/sad.webp",
+    "bytes": 47282,
+    "sha256": "88a3e8331fc4ded52b0f31034a8ea2ba59df2d0937e786dec8bfdc2b7cc7243d"
+  },
+  {
+    "code": "IT",
+    "name": "이태은",
+    "role": "지역자치순찰대 조직가",
+    "expression": "shy",
+    "file": "seonghwa/img/IT/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IT/shy.webp",
+    "bytes": 61872,
+    "sha256": "d29e3ae9c56681eceef0320cdba4401a3e13ef9760d3ede87db04e9a06a9594f"
+  },
+  {
+    "code": "IT",
+    "name": "이태은",
+    "role": "지역자치순찰대 조직가",
+    "expression": "wary",
+    "file": "seonghwa/img/IT/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/IT/wary.webp",
+    "bytes": 53884,
+    "sha256": "a47209d3ca13c494a2fae7b5711c47dea4aadab6e73ec4832d988cbe821236d1"
+  },
+  {
+    "code": "PH",
+    "name": "박현우",
+    "role": "프락치 명단을 쫓는 청년",
+    "expression": "angry",
+    "file": "seonghwa/img/PH/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PH/angry.webp",
+    "bytes": 23382,
+    "sha256": "c96cd150ee179444171f9310d751cc18faad6832bcebc3c1110e84120ff36667"
+  },
+  {
+    "code": "PH",
+    "name": "박현우",
+    "role": "프락치 명단을 쫓는 청년",
+    "expression": "curious",
+    "file": "seonghwa/img/PH/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PH/curious.webp",
+    "bytes": 30726,
+    "sha256": "9018768b3f7ccb1cb1936a36acf68ee78e2b21ebba0ba59eb1e4e121bff40351"
+  },
+  {
+    "code": "PH",
+    "name": "박현우",
+    "role": "프락치 명단을 쫓는 청년",
+    "expression": "default",
+    "file": "seonghwa/img/PH/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PH/default.webp",
+    "bytes": 26254,
+    "sha256": "5f9586aaa41a9fb7dcabcdfbb3cd844d2179b9c76e221c92a687842be9ef86a6"
+  },
+  {
+    "code": "PH",
+    "name": "박현우",
+    "role": "프락치 명단을 쫓는 청년",
+    "expression": "disdain",
+    "file": "seonghwa/img/PH/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PH/disdain.webp",
+    "bytes": 27274,
+    "sha256": "8ad3ce31105894441fb6fa6f8ba45a18b2561249abf6e77d9a976dd0f4364540"
+  },
+  {
+    "code": "PH",
+    "name": "박현우",
+    "role": "프락치 명단을 쫓는 청년",
+    "expression": "flustered",
+    "file": "seonghwa/img/PH/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PH/flustered.webp",
+    "bytes": 32940,
+    "sha256": "92e06951ddd8bec985f9f66024d6bb896a04781f8506e196803f86ac719380a4"
+  },
+  {
+    "code": "PH",
+    "name": "박현우",
+    "role": "프락치 명단을 쫓는 청년",
+    "expression": "happy",
+    "file": "seonghwa/img/PH/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PH/happy.webp",
+    "bytes": 26524,
+    "sha256": "3c50f302657f6b583511f01f6844a7989d74bc810f985528da6c3eed58e6bfc4"
+  },
+  {
+    "code": "PH",
+    "name": "박현우",
+    "role": "프락치 명단을 쫓는 청년",
+    "expression": "sad",
+    "file": "seonghwa/img/PH/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PH/sad.webp",
+    "bytes": 23228,
+    "sha256": "f781ca30c4a5f3f9d10ff24731e561d9e702b31ac61712fa0560313545232157"
+  },
+  {
+    "code": "PH",
+    "name": "박현우",
+    "role": "프락치 명단을 쫓는 청년",
+    "expression": "shy",
+    "file": "seonghwa/img/PH/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PH/shy.webp",
+    "bytes": 27628,
+    "sha256": "db2b44b084d2b495f960230cb64bfed8e4688bba078655b4451ac5946a0c2508"
+  },
+  {
+    "code": "PH",
+    "name": "박현우",
+    "role": "프락치 명단을 쫓는 청년",
+    "expression": "wary",
+    "file": "seonghwa/img/PH/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/PH/wary.webp",
+    "bytes": 19412,
+    "sha256": "6f3a864fbc9d4e1966b100437e460947439a5335176309e1f92d751df66bade4"
+  },
+  {
+    "code": "RF",
+    "name": "레아 포겔",
+    "role": "IPL 종군기자",
+    "expression": "angry",
+    "file": "seonghwa/img/RF/angry.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/RF/angry.webp",
+    "bytes": 60480,
+    "sha256": "71e4e3151432d42149c84ad61d327b29bc65190e7455dfa82615eae103361026"
+  },
+  {
+    "code": "RF",
+    "name": "레아 포겔",
+    "role": "IPL 종군기자",
+    "expression": "curious",
+    "file": "seonghwa/img/RF/curious.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/RF/curious.webp",
+    "bytes": 58768,
+    "sha256": "027db5d593fb691b3626977e3800a47cba260320a36d165e9548be24f8d03d97"
+  },
+  {
+    "code": "RF",
+    "name": "레아 포겔",
+    "role": "IPL 종군기자",
+    "expression": "default",
+    "file": "seonghwa/img/RF/default.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/RF/default.webp",
+    "bytes": 53558,
+    "sha256": "d32e92176dbdaf1ce2dc87d9225e2f547d4abaf7cb27ef1e860a1c63a369db80"
+  },
+  {
+    "code": "RF",
+    "name": "레아 포겔",
+    "role": "IPL 종군기자",
+    "expression": "disdain",
+    "file": "seonghwa/img/RF/disdain.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/RF/disdain.webp",
+    "bytes": 44040,
+    "sha256": "df71c3158f75124d6ad8e3a553a06b3e8b37eb6105ea88f416069ae059db1f4f"
+  },
+  {
+    "code": "RF",
+    "name": "레아 포겔",
+    "role": "IPL 종군기자",
+    "expression": "flustered",
+    "file": "seonghwa/img/RF/flustered.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/RF/flustered.webp",
+    "bytes": 62958,
+    "sha256": "877c0c64ec7f9289a63a550306d02169072ff1a92c5397f8d77328058a1e6693"
+  },
+  {
+    "code": "RF",
+    "name": "레아 포겔",
+    "role": "IPL 종군기자",
+    "expression": "happy",
+    "file": "seonghwa/img/RF/happy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/RF/happy.webp",
+    "bytes": 62038,
+    "sha256": "f85425f3a528d44ce7cf562862b3e271cf1c0ca26583608f1ff6b52d847eb7d0"
+  },
+  {
+    "code": "RF",
+    "name": "레아 포겔",
+    "role": "IPL 종군기자",
+    "expression": "sad",
+    "file": "seonghwa/img/RF/sad.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/RF/sad.webp",
+    "bytes": 55874,
+    "sha256": "c698e0920db9c8bd73a472102b33e9b8e2412054b11b6af0ce29a3a05df531a3"
+  },
+  {
+    "code": "RF",
+    "name": "레아 포겔",
+    "role": "IPL 종군기자",
+    "expression": "shy",
+    "file": "seonghwa/img/RF/shy.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/RF/shy.webp",
+    "bytes": 53766,
+    "sha256": "eeb406d628581cdc8052acc7f115765c90d5cd79d6d0617aedcc2a18528cdeb2"
+  },
+  {
+    "code": "RF",
+    "name": "레아 포겔",
+    "role": "IPL 종군기자",
+    "expression": "wary",
+    "file": "seonghwa/img/RF/wary.webp",
+    "url": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/seonghwa/img/RF/wary.webp",
+    "bytes": 48350,
+    "sha256": "00800d280f27131554090bef06b2defa527237b5616a266246026d0a00232121"
+  }
+]

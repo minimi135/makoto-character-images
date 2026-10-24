@@ -1,0 +1,334 @@
+[
+  {
+    "code": "YS",
+    "name": "윤서현",
+    "role": "총리",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "PI",
+    "name": "박인호",
+    "role": "황실근위대 사령관",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "IS",
+    "name": "임소정",
+    "role": "공화파 헌법학자",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "JG",
+    "name": "장가은",
+    "role": "민족파 지도자",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "CM",
+    "name": "최민서",
+    "role": "공화파 지도자",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "OH",
+    "name": "오한별",
+    "role": "노동파 급진 조직가",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "MH",
+    "name": "목화영",
+    "role": "아나키스트 원로",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "PT",
+    "name": "박태석",
+    "role": "지역자치순찰대 대원",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "BS",
+    "name": "배소원",
+    "role": "구체제를 그리워하는 시골 소녀",
+    "expressions": [
+      "angry",
+      "default",
+      "disdain",
+      "flustered",
+      "happy"
+    ]
+  },
+  {
+    "code": "JA",
+    "name": "정 아이린",
+    "role": "도주 중인 전 심문관",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "IV",
+    "name": "이리나 볼코바",
+    "role": "도니카 제국 군사고문",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "SE",
+    "name": "서은지",
+    "role": "아나키스트 지도자",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "DR",
+    "name": "다니엘 로스",
+    "role": "IPL 인도주의 의료팀장",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "KS",
+    "name": "김석철",
+    "role": "국방장관",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "SY",
+    "name": "이서연",
+    "role": "정보관리국장(실제 모습)",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "HJ",
+    "name": "한지원",
+    "role": "민족파 정치장교",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "GD",
+    "name": "강덕수",
+    "role": "노동파 지도자",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "SA",
+    "name": "이솔아",
+    "role": "지역자치순찰대",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "IT",
+    "name": "이태은",
+    "role": "지역자치순찰대 조직가",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "PH",
+    "name": "박현우",
+    "role": "프락치 명단을 쫓는 청년",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  },
+  {
+    "code": "RF",
+    "name": "레아 포겔",
+    "role": "IPL 종군기자",
+    "expressions": [
+      "angry",
+      "curious",
+      "default",
+      "disdain",
+      "flustered",
+      "happy",
+      "sad",
+      "shy",
+      "wary"
+    ]
+  }
+]

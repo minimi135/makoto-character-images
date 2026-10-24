@@ -1,0 +1,62 @@
+[
+  {
+    "code": "BG",
+    "number": 1,
+    "title": "학교 — 전학 첫날",
+    "file": "start-01-school.png",
+    "path": "img/BG/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/BG/1.png",
+    "location": "일반 고등학교·교실 앞",
+    "time": "08:20",
+    "date": "3월 2일",
+    "sha256": "a9d5d993c84361bdc394f51da895815d5ea1e3363d59b9ba6d8b29a1f241ce8f"
+  },
+  {
+    "code": "BG",
+    "number": 2,
+    "title": "로도노프 저택 — 저녁 식사 전",
+    "file": "start-02-rodonov-home.png",
+    "path": "img/BG/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/BG/2.png",
+    "location": "로도노프 저택·현관과 식당",
+    "time": "18:30",
+    "date": "3월 2일",
+    "sha256": "3eaebe2f1bdf8326a8b2a626758120e92cba56a70cc92f8e463f4e0628dc8a36"
+  },
+  {
+    "code": "BG",
+    "number": 3,
+    "title": "일렌시아 성국 — 아침의 방문",
+    "file": "start-03-ilencia.png",
+    "path": "img/BG/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/BG/3.png",
+    "location": "일렌시아 성국·해안 행정 지구",
+    "time": "09:00",
+    "date": "3월 2일",
+    "sha256": "2cbe6689afa6ddcc694027cafc96fb3e1cda7044683343894b14ce8b8557216e"
+  },
+  {
+    "code": "BG",
+    "number": 4,
+    "title": "베르티네 절대국 — 왕궁의 문 앞",
+    "file": "start-04-bertine.png",
+    "path": "img/BG/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/BG/4.png",
+    "location": "베르티네 절대국·왕궁 접근로",
+    "time": "10:00",
+    "date": "3월 2일",
+    "sha256": "7c7b6421b0657acd1afc9b95339f624c8b45214eaefc68fb1e5db267aefaf320"
+  },
+  {
+    "code": "BG",
+    "number": 5,
+    "title": "마력 안정화국 — 첫 현장 브리핑",
+    "file": "start-05-stabilization-bureau.png",
+    "path": "img/BG/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/BG/5.png",
+    "location": "마력 안정화국·출동 대기실",
+    "time": "06:40",
+    "date": "3월 2일",
+    "sha256": "ed6fde12af03e703918580578315be8b970c2794ce38d825b955bcaf50b5dcfd"
+  }
+]

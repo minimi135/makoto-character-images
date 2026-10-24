@@ -75,3 +75,13 @@ Fairy-world image assets for Elyn. Files are copied byte-for-byte from the sourc
 | 34 | 무표정 |
 
 Only files listed in `images.json` exist. Do not infer or invent missing expression URLs.
+
+## Scene backgrounds
+
+Five opening/location backgrounds are under `img/BG/{1..5}.png`. BG is reserved for backgrounds; its numbers are locations, not portrait expressions. `scenes.json` lists titles, file paths, raw URLs, and SHA-256 hashes.
+
+- BG/1: 학교 — 전학 첫날
+- BG/2: 로도노프 저택 — 저녁 식사 전
+- BG/3: 일렌시아 성국 — 아침의 방문
+- BG/4: 베르티네 절대국 — 왕궁의 문 앞
+- BG/5: 마력 안정화국 — 첫 현장 브리핑

@@ -1,0 +1,4052 @@
+[
+  {
+    "originalCode": "FW01",
+    "characterCode": "ER",
+    "name": "에리시아 로도노프",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/ER/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ER/1.png"
+  },
+  {
+    "originalCode": "FW01",
+    "characterCode": "ER",
+    "name": "에리시아 로도노프",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/ER/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ER/2.png"
+  },
+  {
+    "originalCode": "FW01",
+    "characterCode": "ER",
+    "name": "에리시아 로도노프",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/ER/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ER/3.png"
+  },
+  {
+    "originalCode": "FW01",
+    "characterCode": "ER",
+    "name": "에리시아 로도노프",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/ER/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ER/4.png"
+  },
+  {
+    "originalCode": "FW01",
+    "characterCode": "ER",
+    "name": "에리시아 로도노프",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/ER/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ER/5.png"
+  },
+  {
+    "originalCode": "FW01",
+    "characterCode": "ER",
+    "name": "에리시아 로도노프",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/ER/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ER/7.png"
+  },
+  {
+    "originalCode": "FW01",
+    "characterCode": "ER",
+    "name": "에리시아 로도노프",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/ER/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ER/8.png"
+  },
+  {
+    "originalCode": "FW01",
+    "characterCode": "ER",
+    "name": "에리시아 로도노프",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/ER/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ER/9.png"
+  },
+  {
+    "originalCode": "FW01",
+    "characterCode": "ER",
+    "name": "에리시아 로도노프",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/ER/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ER/17.png"
+  },
+  {
+    "originalCode": "FW01",
+    "characterCode": "ER",
+    "name": "에리시아 로도노프",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/ER/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ER/34.png"
+  },
+  {
+    "originalCode": "FW02",
+    "characterCode": "LE",
+    "name": "레나 로도노프",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/LE/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LE/1.png"
+  },
+  {
+    "originalCode": "FW02",
+    "characterCode": "LE",
+    "name": "레나 로도노프",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/LE/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LE/2.png"
+  },
+  {
+    "originalCode": "FW02",
+    "characterCode": "LE",
+    "name": "레나 로도노프",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/LE/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LE/3.png"
+  },
+  {
+    "originalCode": "FW02",
+    "characterCode": "LE",
+    "name": "레나 로도노프",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/LE/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LE/4.png"
+  },
+  {
+    "originalCode": "FW02",
+    "characterCode": "LE",
+    "name": "레나 로도노프",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/LE/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LE/5.png"
+  },
+  {
+    "originalCode": "FW02",
+    "characterCode": "LE",
+    "name": "레나 로도노프",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/LE/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LE/7.png"
+  },
+  {
+    "originalCode": "FW02",
+    "characterCode": "LE",
+    "name": "레나 로도노프",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/LE/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LE/8.png"
+  },
+  {
+    "originalCode": "FW02",
+    "characterCode": "LE",
+    "name": "레나 로도노프",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/LE/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LE/9.png"
+  },
+  {
+    "originalCode": "FW02",
+    "characterCode": "LE",
+    "name": "레나 로도노프",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/LE/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LE/17.png"
+  },
+  {
+    "originalCode": "FW02",
+    "characterCode": "LE",
+    "name": "레나 로도노프",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/LE/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LE/34.png"
+  },
+  {
+    "originalCode": "FW03",
+    "characterCode": "KA",
+    "name": "카린 로도노프",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/KA/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KA/1.png"
+  },
+  {
+    "originalCode": "FW03",
+    "characterCode": "KA",
+    "name": "카린 로도노프",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/KA/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KA/2.png"
+  },
+  {
+    "originalCode": "FW03",
+    "characterCode": "KA",
+    "name": "카린 로도노프",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/KA/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KA/3.png"
+  },
+  {
+    "originalCode": "FW03",
+    "characterCode": "KA",
+    "name": "카린 로도노프",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/KA/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KA/4.png"
+  },
+  {
+    "originalCode": "FW03",
+    "characterCode": "KA",
+    "name": "카린 로도노프",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/KA/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KA/5.png"
+  },
+  {
+    "originalCode": "FW03",
+    "characterCode": "KA",
+    "name": "카린 로도노프",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/KA/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KA/7.png"
+  },
+  {
+    "originalCode": "FW03",
+    "characterCode": "KA",
+    "name": "카린 로도노프",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/KA/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KA/8.png"
+  },
+  {
+    "originalCode": "FW03",
+    "characterCode": "KA",
+    "name": "카린 로도노프",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/KA/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KA/9.png"
+  },
+  {
+    "originalCode": "FW03",
+    "characterCode": "KA",
+    "name": "카린 로도노프",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/KA/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KA/17.png"
+  },
+  {
+    "originalCode": "FW03",
+    "characterCode": "KA",
+    "name": "카린 로도노프",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/KA/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KA/34.png"
+  },
+  {
+    "originalCode": "FW04",
+    "characterCode": "JO",
+    "name": "조시 로도노프",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/JO/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JO/1.png"
+  },
+  {
+    "originalCode": "FW04",
+    "characterCode": "JO",
+    "name": "조시 로도노프",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/JO/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JO/2.png"
+  },
+  {
+    "originalCode": "FW04",
+    "characterCode": "JO",
+    "name": "조시 로도노프",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/JO/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JO/3.png"
+  },
+  {
+    "originalCode": "FW04",
+    "characterCode": "JO",
+    "name": "조시 로도노프",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/JO/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JO/4.png"
+  },
+  {
+    "originalCode": "FW04",
+    "characterCode": "JO",
+    "name": "조시 로도노프",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/JO/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JO/5.png"
+  },
+  {
+    "originalCode": "FW04",
+    "characterCode": "JO",
+    "name": "조시 로도노프",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/JO/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JO/7.png"
+  },
+  {
+    "originalCode": "FW04",
+    "characterCode": "JO",
+    "name": "조시 로도노프",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/JO/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JO/8.png"
+  },
+  {
+    "originalCode": "FW04",
+    "characterCode": "JO",
+    "name": "조시 로도노프",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/JO/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JO/9.png"
+  },
+  {
+    "originalCode": "FW04",
+    "characterCode": "JO",
+    "name": "조시 로도노프",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/JO/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JO/17.png"
+  },
+  {
+    "originalCode": "FW04",
+    "characterCode": "JO",
+    "name": "조시 로도노프",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/JO/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JO/34.png"
+  },
+  {
+    "originalCode": "FW05",
+    "characterCode": "DA",
+    "name": "다니엘 로도노프",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/DA/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DA/1.png"
+  },
+  {
+    "originalCode": "FW05",
+    "characterCode": "DA",
+    "name": "다니엘 로도노프",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/DA/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DA/2.png"
+  },
+  {
+    "originalCode": "FW05",
+    "characterCode": "DA",
+    "name": "다니엘 로도노프",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/DA/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DA/3.png"
+  },
+  {
+    "originalCode": "FW05",
+    "characterCode": "DA",
+    "name": "다니엘 로도노프",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/DA/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DA/4.png"
+  },
+  {
+    "originalCode": "FW05",
+    "characterCode": "DA",
+    "name": "다니엘 로도노프",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/DA/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DA/5.png"
+  },
+  {
+    "originalCode": "FW05",
+    "characterCode": "DA",
+    "name": "다니엘 로도노프",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/DA/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DA/7.png"
+  },
+  {
+    "originalCode": "FW05",
+    "characterCode": "DA",
+    "name": "다니엘 로도노프",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/DA/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DA/8.png"
+  },
+  {
+    "originalCode": "FW05",
+    "characterCode": "DA",
+    "name": "다니엘 로도노프",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/DA/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DA/9.png"
+  },
+  {
+    "originalCode": "FW05",
+    "characterCode": "DA",
+    "name": "다니엘 로도노프",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/DA/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DA/17.png"
+  },
+  {
+    "originalCode": "FW05",
+    "characterCode": "DA",
+    "name": "다니엘 로도노프",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/DA/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DA/34.png"
+  },
+  {
+    "originalCode": "FW06",
+    "characterCode": "IR",
+    "name": "이리나 세벨린",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/IR/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IR/1.png"
+  },
+  {
+    "originalCode": "FW06",
+    "characterCode": "IR",
+    "name": "이리나 세벨린",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/IR/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IR/2.png"
+  },
+  {
+    "originalCode": "FW06",
+    "characterCode": "IR",
+    "name": "이리나 세벨린",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/IR/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IR/3.png"
+  },
+  {
+    "originalCode": "FW06",
+    "characterCode": "IR",
+    "name": "이리나 세벨린",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/IR/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IR/4.png"
+  },
+  {
+    "originalCode": "FW06",
+    "characterCode": "IR",
+    "name": "이리나 세벨린",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/IR/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IR/5.png"
+  },
+  {
+    "originalCode": "FW06",
+    "characterCode": "IR",
+    "name": "이리나 세벨린",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/IR/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IR/7.png"
+  },
+  {
+    "originalCode": "FW06",
+    "characterCode": "IR",
+    "name": "이리나 세벨린",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/IR/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IR/8.png"
+  },
+  {
+    "originalCode": "FW06",
+    "characterCode": "IR",
+    "name": "이리나 세벨린",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/IR/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IR/9.png"
+  },
+  {
+    "originalCode": "FW06",
+    "characterCode": "IR",
+    "name": "이리나 세벨린",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/IR/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IR/17.png"
+  },
+  {
+    "originalCode": "FW06",
+    "characterCode": "IR",
+    "name": "이리나 세벨린",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/IR/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IR/34.png"
+  },
+  {
+    "originalCode": "FW07",
+    "characterCode": "NI",
+    "name": "니콜라이 로도노프",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/NI/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NI/1.png"
+  },
+  {
+    "originalCode": "FW07",
+    "characterCode": "NI",
+    "name": "니콜라이 로도노프",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/NI/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NI/2.png"
+  },
+  {
+    "originalCode": "FW07",
+    "characterCode": "NI",
+    "name": "니콜라이 로도노프",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/NI/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NI/3.png"
+  },
+  {
+    "originalCode": "FW07",
+    "characterCode": "NI",
+    "name": "니콜라이 로도노프",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/NI/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NI/4.png"
+  },
+  {
+    "originalCode": "FW07",
+    "characterCode": "NI",
+    "name": "니콜라이 로도노프",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/NI/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NI/5.png"
+  },
+  {
+    "originalCode": "FW07",
+    "characterCode": "NI",
+    "name": "니콜라이 로도노프",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/NI/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NI/7.png"
+  },
+  {
+    "originalCode": "FW07",
+    "characterCode": "NI",
+    "name": "니콜라이 로도노프",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/NI/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NI/8.png"
+  },
+  {
+    "originalCode": "FW07",
+    "characterCode": "NI",
+    "name": "니콜라이 로도노프",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/NI/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NI/9.png"
+  },
+  {
+    "originalCode": "FW07",
+    "characterCode": "NI",
+    "name": "니콜라이 로도노프",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/NI/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NI/17.png"
+  },
+  {
+    "originalCode": "FW07",
+    "characterCode": "NI",
+    "name": "니콜라이 로도노프",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/NI/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NI/34.png"
+  },
+  {
+    "originalCode": "FW08",
+    "characterCode": "SE",
+    "name": "한설아",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/SE/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SE/1.png"
+  },
+  {
+    "originalCode": "FW08",
+    "characterCode": "SE",
+    "name": "한설아",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/SE/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SE/2.png"
+  },
+  {
+    "originalCode": "FW08",
+    "characterCode": "SE",
+    "name": "한설아",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/SE/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SE/3.png"
+  },
+  {
+    "originalCode": "FW08",
+    "characterCode": "SE",
+    "name": "한설아",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/SE/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SE/4.png"
+  },
+  {
+    "originalCode": "FW08",
+    "characterCode": "SE",
+    "name": "한설아",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/SE/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SE/5.png"
+  },
+  {
+    "originalCode": "FW08",
+    "characterCode": "SE",
+    "name": "한설아",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/SE/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SE/7.png"
+  },
+  {
+    "originalCode": "FW08",
+    "characterCode": "SE",
+    "name": "한설아",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/SE/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SE/8.png"
+  },
+  {
+    "originalCode": "FW08",
+    "characterCode": "SE",
+    "name": "한설아",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/SE/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SE/9.png"
+  },
+  {
+    "originalCode": "FW08",
+    "characterCode": "SE",
+    "name": "한설아",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/SE/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SE/17.png"
+  },
+  {
+    "originalCode": "FW08",
+    "characterCode": "SE",
+    "name": "한설아",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/SE/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SE/34.png"
+  },
+  {
+    "originalCode": "FW09",
+    "characterCode": "SA",
+    "name": "세라",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/SA/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SA/1.png"
+  },
+  {
+    "originalCode": "FW09",
+    "characterCode": "SA",
+    "name": "세라",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/SA/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SA/2.png"
+  },
+  {
+    "originalCode": "FW09",
+    "characterCode": "SA",
+    "name": "세라",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/SA/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SA/3.png"
+  },
+  {
+    "originalCode": "FW09",
+    "characterCode": "SA",
+    "name": "세라",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/SA/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SA/4.png"
+  },
+  {
+    "originalCode": "FW09",
+    "characterCode": "SA",
+    "name": "세라",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/SA/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SA/5.png"
+  },
+  {
+    "originalCode": "FW09",
+    "characterCode": "SA",
+    "name": "세라",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/SA/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SA/7.png"
+  },
+  {
+    "originalCode": "FW09",
+    "characterCode": "SA",
+    "name": "세라",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/SA/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SA/8.png"
+  },
+  {
+    "originalCode": "FW09",
+    "characterCode": "SA",
+    "name": "세라",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/SA/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SA/9.png"
+  },
+  {
+    "originalCode": "FW09",
+    "characterCode": "SA",
+    "name": "세라",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/SA/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SA/17.png"
+  },
+  {
+    "originalCode": "FW09",
+    "characterCode": "SA",
+    "name": "세라",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/SA/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SA/34.png"
+  },
+  {
+    "originalCode": "FW10",
+    "characterCode": "NO",
+    "name": "노엘",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/NO/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NO/1.png"
+  },
+  {
+    "originalCode": "FW10",
+    "characterCode": "NO",
+    "name": "노엘",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/NO/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NO/2.png"
+  },
+  {
+    "originalCode": "FW10",
+    "characterCode": "NO",
+    "name": "노엘",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/NO/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NO/3.png"
+  },
+  {
+    "originalCode": "FW10",
+    "characterCode": "NO",
+    "name": "노엘",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/NO/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NO/4.png"
+  },
+  {
+    "originalCode": "FW10",
+    "characterCode": "NO",
+    "name": "노엘",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/NO/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NO/5.png"
+  },
+  {
+    "originalCode": "FW10",
+    "characterCode": "NO",
+    "name": "노엘",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/NO/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NO/7.png"
+  },
+  {
+    "originalCode": "FW10",
+    "characterCode": "NO",
+    "name": "노엘",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/NO/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NO/8.png"
+  },
+  {
+    "originalCode": "FW10",
+    "characterCode": "NO",
+    "name": "노엘",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/NO/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NO/9.png"
+  },
+  {
+    "originalCode": "FW10",
+    "characterCode": "NO",
+    "name": "노엘",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/NO/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NO/17.png"
+  },
+  {
+    "originalCode": "FW10",
+    "characterCode": "NO",
+    "name": "노엘",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/NO/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/NO/34.png"
+  },
+  {
+    "originalCode": "FW11",
+    "characterCode": "RI",
+    "name": "리안",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/RI/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RI/1.png"
+  },
+  {
+    "originalCode": "FW11",
+    "characterCode": "RI",
+    "name": "리안",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/RI/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RI/2.png"
+  },
+  {
+    "originalCode": "FW11",
+    "characterCode": "RI",
+    "name": "리안",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/RI/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RI/3.png"
+  },
+  {
+    "originalCode": "FW11",
+    "characterCode": "RI",
+    "name": "리안",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/RI/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RI/4.png"
+  },
+  {
+    "originalCode": "FW11",
+    "characterCode": "RI",
+    "name": "리안",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/RI/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RI/5.png"
+  },
+  {
+    "originalCode": "FW11",
+    "characterCode": "RI",
+    "name": "리안",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/RI/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RI/7.png"
+  },
+  {
+    "originalCode": "FW11",
+    "characterCode": "RI",
+    "name": "리안",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/RI/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RI/8.png"
+  },
+  {
+    "originalCode": "FW11",
+    "characterCode": "RI",
+    "name": "리안",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/RI/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RI/9.png"
+  },
+  {
+    "originalCode": "FW11",
+    "characterCode": "RI",
+    "name": "리안",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/RI/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RI/17.png"
+  },
+  {
+    "originalCode": "FW11",
+    "characterCode": "RI",
+    "name": "리안",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/RI/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RI/34.png"
+  },
+  {
+    "originalCode": "FW12",
+    "characterCode": "DO",
+    "name": "도영",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/DO/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DO/1.png"
+  },
+  {
+    "originalCode": "FW12",
+    "characterCode": "DO",
+    "name": "도영",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/DO/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DO/2.png"
+  },
+  {
+    "originalCode": "FW12",
+    "characterCode": "DO",
+    "name": "도영",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/DO/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DO/3.png"
+  },
+  {
+    "originalCode": "FW12",
+    "characterCode": "DO",
+    "name": "도영",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/DO/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DO/4.png"
+  },
+  {
+    "originalCode": "FW12",
+    "characterCode": "DO",
+    "name": "도영",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/DO/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DO/5.png"
+  },
+  {
+    "originalCode": "FW12",
+    "characterCode": "DO",
+    "name": "도영",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/DO/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DO/7.png"
+  },
+  {
+    "originalCode": "FW12",
+    "characterCode": "DO",
+    "name": "도영",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/DO/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DO/8.png"
+  },
+  {
+    "originalCode": "FW12",
+    "characterCode": "DO",
+    "name": "도영",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/DO/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DO/9.png"
+  },
+  {
+    "originalCode": "FW12",
+    "characterCode": "DO",
+    "name": "도영",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/DO/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DO/17.png"
+  },
+  {
+    "originalCode": "FW12",
+    "characterCode": "DO",
+    "name": "도영",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/DO/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/DO/34.png"
+  },
+  {
+    "originalCode": "FW13",
+    "characterCode": "MA",
+    "name": "마리",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/MA/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MA/1.png"
+  },
+  {
+    "originalCode": "FW13",
+    "characterCode": "MA",
+    "name": "마리",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/MA/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MA/2.png"
+  },
+  {
+    "originalCode": "FW13",
+    "characterCode": "MA",
+    "name": "마리",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/MA/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MA/3.png"
+  },
+  {
+    "originalCode": "FW13",
+    "characterCode": "MA",
+    "name": "마리",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/MA/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MA/4.png"
+  },
+  {
+    "originalCode": "FW13",
+    "characterCode": "MA",
+    "name": "마리",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/MA/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MA/5.png"
+  },
+  {
+    "originalCode": "FW13",
+    "characterCode": "MA",
+    "name": "마리",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/MA/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MA/7.png"
+  },
+  {
+    "originalCode": "FW13",
+    "characterCode": "MA",
+    "name": "마리",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/MA/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MA/8.png"
+  },
+  {
+    "originalCode": "FW13",
+    "characterCode": "MA",
+    "name": "마리",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/MA/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MA/9.png"
+  },
+  {
+    "originalCode": "FW13",
+    "characterCode": "MA",
+    "name": "마리",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/MA/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MA/17.png"
+  },
+  {
+    "originalCode": "FW13",
+    "characterCode": "MA",
+    "name": "마리",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/MA/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MA/34.png"
+  },
+  {
+    "originalCode": "FW14",
+    "characterCode": "SH",
+    "name": "서하준",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/SH/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SH/1.png"
+  },
+  {
+    "originalCode": "FW14",
+    "characterCode": "SH",
+    "name": "서하준",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/SH/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SH/2.png"
+  },
+  {
+    "originalCode": "FW14",
+    "characterCode": "SH",
+    "name": "서하준",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/SH/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SH/3.png"
+  },
+  {
+    "originalCode": "FW14",
+    "characterCode": "SH",
+    "name": "서하준",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/SH/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SH/4.png"
+  },
+  {
+    "originalCode": "FW14",
+    "characterCode": "SH",
+    "name": "서하준",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/SH/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SH/5.png"
+  },
+  {
+    "originalCode": "FW14",
+    "characterCode": "SH",
+    "name": "서하준",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/SH/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SH/7.png"
+  },
+  {
+    "originalCode": "FW14",
+    "characterCode": "SH",
+    "name": "서하준",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/SH/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SH/8.png"
+  },
+  {
+    "originalCode": "FW14",
+    "characterCode": "SH",
+    "name": "서하준",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/SH/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SH/9.png"
+  },
+  {
+    "originalCode": "FW14",
+    "characterCode": "SH",
+    "name": "서하준",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/SH/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SH/17.png"
+  },
+  {
+    "originalCode": "FW14",
+    "characterCode": "SH",
+    "name": "서하준",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/SH/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SH/34.png"
+  },
+  {
+    "originalCode": "FW15",
+    "characterCode": "KJ",
+    "name": "강지민",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/KJ/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KJ/1.png"
+  },
+  {
+    "originalCode": "FW15",
+    "characterCode": "KJ",
+    "name": "강지민",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/KJ/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KJ/2.png"
+  },
+  {
+    "originalCode": "FW15",
+    "characterCode": "KJ",
+    "name": "강지민",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/KJ/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KJ/3.png"
+  },
+  {
+    "originalCode": "FW15",
+    "characterCode": "KJ",
+    "name": "강지민",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/KJ/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KJ/4.png"
+  },
+  {
+    "originalCode": "FW15",
+    "characterCode": "KJ",
+    "name": "강지민",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/KJ/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KJ/5.png"
+  },
+  {
+    "originalCode": "FW15",
+    "characterCode": "KJ",
+    "name": "강지민",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/KJ/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KJ/7.png"
+  },
+  {
+    "originalCode": "FW15",
+    "characterCode": "KJ",
+    "name": "강지민",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/KJ/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KJ/8.png"
+  },
+  {
+    "originalCode": "FW15",
+    "characterCode": "KJ",
+    "name": "강지민",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/KJ/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KJ/9.png"
+  },
+  {
+    "originalCode": "FW15",
+    "characterCode": "KJ",
+    "name": "강지민",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/KJ/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KJ/17.png"
+  },
+  {
+    "originalCode": "FW15",
+    "characterCode": "KJ",
+    "name": "강지민",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/KJ/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KJ/34.png"
+  },
+  {
+    "originalCode": "FW16",
+    "characterCode": "LI",
+    "name": "리제트",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/LI/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LI/1.png"
+  },
+  {
+    "originalCode": "FW16",
+    "characterCode": "LI",
+    "name": "리제트",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/LI/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LI/2.png"
+  },
+  {
+    "originalCode": "FW16",
+    "characterCode": "LI",
+    "name": "리제트",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/LI/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LI/3.png"
+  },
+  {
+    "originalCode": "FW16",
+    "characterCode": "LI",
+    "name": "리제트",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/LI/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LI/4.png"
+  },
+  {
+    "originalCode": "FW16",
+    "characterCode": "LI",
+    "name": "리제트",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/LI/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LI/5.png"
+  },
+  {
+    "originalCode": "FW16",
+    "characterCode": "LI",
+    "name": "리제트",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/LI/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LI/7.png"
+  },
+  {
+    "originalCode": "FW16",
+    "characterCode": "LI",
+    "name": "리제트",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/LI/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LI/8.png"
+  },
+  {
+    "originalCode": "FW16",
+    "characterCode": "LI",
+    "name": "리제트",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/LI/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LI/9.png"
+  },
+  {
+    "originalCode": "FW16",
+    "characterCode": "LI",
+    "name": "리제트",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/LI/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LI/17.png"
+  },
+  {
+    "originalCode": "FW16",
+    "characterCode": "LI",
+    "name": "리제트",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/LI/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LI/34.png"
+  },
+  {
+    "originalCode": "FW17",
+    "characterCode": "RO",
+    "name": "로잘리",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/RO/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RO/1.png"
+  },
+  {
+    "originalCode": "FW17",
+    "characterCode": "RO",
+    "name": "로잘리",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/RO/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RO/2.png"
+  },
+  {
+    "originalCode": "FW17",
+    "characterCode": "RO",
+    "name": "로잘리",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/RO/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RO/3.png"
+  },
+  {
+    "originalCode": "FW17",
+    "characterCode": "RO",
+    "name": "로잘리",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/RO/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RO/4.png"
+  },
+  {
+    "originalCode": "FW17",
+    "characterCode": "RO",
+    "name": "로잘리",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/RO/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RO/5.png"
+  },
+  {
+    "originalCode": "FW17",
+    "characterCode": "RO",
+    "name": "로잘리",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/RO/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RO/7.png"
+  },
+  {
+    "originalCode": "FW17",
+    "characterCode": "RO",
+    "name": "로잘리",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/RO/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RO/8.png"
+  },
+  {
+    "originalCode": "FW17",
+    "characterCode": "RO",
+    "name": "로잘리",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/RO/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RO/9.png"
+  },
+  {
+    "originalCode": "FW17",
+    "characterCode": "RO",
+    "name": "로잘리",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/RO/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RO/17.png"
+  },
+  {
+    "originalCode": "FW17",
+    "characterCode": "RO",
+    "name": "로잘리",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/RO/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RO/34.png"
+  },
+  {
+    "originalCode": "FW18",
+    "characterCode": "SR",
+    "name": "이서린",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/SR/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SR/1.png"
+  },
+  {
+    "originalCode": "FW18",
+    "characterCode": "SR",
+    "name": "이서린",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/SR/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SR/2.png"
+  },
+  {
+    "originalCode": "FW18",
+    "characterCode": "SR",
+    "name": "이서린",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/SR/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SR/3.png"
+  },
+  {
+    "originalCode": "FW18",
+    "characterCode": "SR",
+    "name": "이서린",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/SR/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SR/4.png"
+  },
+  {
+    "originalCode": "FW18",
+    "characterCode": "SR",
+    "name": "이서린",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/SR/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SR/5.png"
+  },
+  {
+    "originalCode": "FW18",
+    "characterCode": "SR",
+    "name": "이서린",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/SR/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SR/7.png"
+  },
+  {
+    "originalCode": "FW18",
+    "characterCode": "SR",
+    "name": "이서린",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/SR/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SR/8.png"
+  },
+  {
+    "originalCode": "FW18",
+    "characterCode": "SR",
+    "name": "이서린",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/SR/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SR/9.png"
+  },
+  {
+    "originalCode": "FW18",
+    "characterCode": "SR",
+    "name": "이서린",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/SR/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SR/17.png"
+  },
+  {
+    "originalCode": "FW18",
+    "characterCode": "SR",
+    "name": "이서린",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/SR/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SR/34.png"
+  },
+  {
+    "originalCode": "FW19",
+    "characterCode": "SS",
+    "name": "백승재",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/SS/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SS/1.png"
+  },
+  {
+    "originalCode": "FW19",
+    "characterCode": "SS",
+    "name": "백승재",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/SS/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SS/2.png"
+  },
+  {
+    "originalCode": "FW19",
+    "characterCode": "SS",
+    "name": "백승재",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/SS/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SS/3.png"
+  },
+  {
+    "originalCode": "FW19",
+    "characterCode": "SS",
+    "name": "백승재",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/SS/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SS/4.png"
+  },
+  {
+    "originalCode": "FW19",
+    "characterCode": "SS",
+    "name": "백승재",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/SS/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SS/5.png"
+  },
+  {
+    "originalCode": "FW19",
+    "characterCode": "SS",
+    "name": "백승재",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/SS/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SS/7.png"
+  },
+  {
+    "originalCode": "FW19",
+    "characterCode": "SS",
+    "name": "백승재",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/SS/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SS/8.png"
+  },
+  {
+    "originalCode": "FW19",
+    "characterCode": "SS",
+    "name": "백승재",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/SS/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SS/9.png"
+  },
+  {
+    "originalCode": "FW19",
+    "characterCode": "SS",
+    "name": "백승재",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/SS/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SS/17.png"
+  },
+  {
+    "originalCode": "FW19",
+    "characterCode": "SS",
+    "name": "백승재",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/SS/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SS/34.png"
+  },
+  {
+    "originalCode": "FW20",
+    "characterCode": "HA",
+    "name": "하윤",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/HA/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/HA/1.png"
+  },
+  {
+    "originalCode": "FW20",
+    "characterCode": "HA",
+    "name": "하윤",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/HA/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/HA/2.png"
+  },
+  {
+    "originalCode": "FW20",
+    "characterCode": "HA",
+    "name": "하윤",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/HA/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/HA/3.png"
+  },
+  {
+    "originalCode": "FW20",
+    "characterCode": "HA",
+    "name": "하윤",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/HA/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/HA/4.png"
+  },
+  {
+    "originalCode": "FW20",
+    "characterCode": "HA",
+    "name": "하윤",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/HA/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/HA/5.png"
+  },
+  {
+    "originalCode": "FW20",
+    "characterCode": "HA",
+    "name": "하윤",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/HA/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/HA/7.png"
+  },
+  {
+    "originalCode": "FW20",
+    "characterCode": "HA",
+    "name": "하윤",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/HA/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/HA/8.png"
+  },
+  {
+    "originalCode": "FW20",
+    "characterCode": "HA",
+    "name": "하윤",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/HA/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/HA/9.png"
+  },
+  {
+    "originalCode": "FW20",
+    "characterCode": "HA",
+    "name": "하윤",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/HA/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/HA/17.png"
+  },
+  {
+    "originalCode": "FW20",
+    "characterCode": "HA",
+    "name": "하윤",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/HA/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/HA/34.png"
+  },
+  {
+    "originalCode": "FW21",
+    "characterCode": "YT",
+    "name": "윤태성",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/YT/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YT/1.png"
+  },
+  {
+    "originalCode": "FW21",
+    "characterCode": "YT",
+    "name": "윤태성",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/YT/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YT/2.png"
+  },
+  {
+    "originalCode": "FW21",
+    "characterCode": "YT",
+    "name": "윤태성",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/YT/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YT/3.png"
+  },
+  {
+    "originalCode": "FW21",
+    "characterCode": "YT",
+    "name": "윤태성",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/YT/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YT/4.png"
+  },
+  {
+    "originalCode": "FW21",
+    "characterCode": "YT",
+    "name": "윤태성",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/YT/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YT/5.png"
+  },
+  {
+    "originalCode": "FW21",
+    "characterCode": "YT",
+    "name": "윤태성",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/YT/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YT/7.png"
+  },
+  {
+    "originalCode": "FW21",
+    "characterCode": "YT",
+    "name": "윤태성",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/YT/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YT/8.png"
+  },
+  {
+    "originalCode": "FW21",
+    "characterCode": "YT",
+    "name": "윤태성",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/YT/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YT/9.png"
+  },
+  {
+    "originalCode": "FW21",
+    "characterCode": "YT",
+    "name": "윤태성",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/YT/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YT/17.png"
+  },
+  {
+    "originalCode": "FW21",
+    "characterCode": "YT",
+    "name": "윤태성",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/YT/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YT/34.png"
+  },
+  {
+    "originalCode": "FW22",
+    "characterCode": "IS",
+    "name": "이리스",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/IS/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IS/1.png"
+  },
+  {
+    "originalCode": "FW22",
+    "characterCode": "IS",
+    "name": "이리스",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/IS/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IS/2.png"
+  },
+  {
+    "originalCode": "FW22",
+    "characterCode": "IS",
+    "name": "이리스",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/IS/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IS/3.png"
+  },
+  {
+    "originalCode": "FW22",
+    "characterCode": "IS",
+    "name": "이리스",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/IS/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IS/4.png"
+  },
+  {
+    "originalCode": "FW22",
+    "characterCode": "IS",
+    "name": "이리스",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/IS/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IS/5.png"
+  },
+  {
+    "originalCode": "FW22",
+    "characterCode": "IS",
+    "name": "이리스",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/IS/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IS/7.png"
+  },
+  {
+    "originalCode": "FW22",
+    "characterCode": "IS",
+    "name": "이리스",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/IS/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IS/8.png"
+  },
+  {
+    "originalCode": "FW22",
+    "characterCode": "IS",
+    "name": "이리스",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/IS/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IS/9.png"
+  },
+  {
+    "originalCode": "FW22",
+    "characterCode": "IS",
+    "name": "이리스",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/IS/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IS/17.png"
+  },
+  {
+    "originalCode": "FW22",
+    "characterCode": "IS",
+    "name": "이리스",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/IS/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IS/34.png"
+  },
+  {
+    "originalCode": "FW23",
+    "characterCode": "AR",
+    "name": "아리아",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/AR/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AR/1.png"
+  },
+  {
+    "originalCode": "FW23",
+    "characterCode": "AR",
+    "name": "아리아",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/AR/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AR/2.png"
+  },
+  {
+    "originalCode": "FW23",
+    "characterCode": "AR",
+    "name": "아리아",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/AR/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AR/3.png"
+  },
+  {
+    "originalCode": "FW23",
+    "characterCode": "AR",
+    "name": "아리아",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/AR/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AR/4.png"
+  },
+  {
+    "originalCode": "FW23",
+    "characterCode": "AR",
+    "name": "아리아",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/AR/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AR/5.png"
+  },
+  {
+    "originalCode": "FW23",
+    "characterCode": "AR",
+    "name": "아리아",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/AR/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AR/7.png"
+  },
+  {
+    "originalCode": "FW23",
+    "characterCode": "AR",
+    "name": "아리아",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/AR/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AR/8.png"
+  },
+  {
+    "originalCode": "FW23",
+    "characterCode": "AR",
+    "name": "아리아",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/AR/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AR/9.png"
+  },
+  {
+    "originalCode": "FW23",
+    "characterCode": "AR",
+    "name": "아리아",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/AR/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AR/17.png"
+  },
+  {
+    "originalCode": "FW23",
+    "characterCode": "AR",
+    "name": "아리아",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/AR/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AR/34.png"
+  },
+  {
+    "originalCode": "FW24",
+    "characterCode": "VI",
+    "name": "비올라",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/VI/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VI/1.png"
+  },
+  {
+    "originalCode": "FW24",
+    "characterCode": "VI",
+    "name": "비올라",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/VI/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VI/2.png"
+  },
+  {
+    "originalCode": "FW24",
+    "characterCode": "VI",
+    "name": "비올라",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/VI/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VI/3.png"
+  },
+  {
+    "originalCode": "FW24",
+    "characterCode": "VI",
+    "name": "비올라",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/VI/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VI/4.png"
+  },
+  {
+    "originalCode": "FW24",
+    "characterCode": "VI",
+    "name": "비올라",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/VI/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VI/5.png"
+  },
+  {
+    "originalCode": "FW24",
+    "characterCode": "VI",
+    "name": "비올라",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/VI/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VI/7.png"
+  },
+  {
+    "originalCode": "FW24",
+    "characterCode": "VI",
+    "name": "비올라",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/VI/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VI/8.png"
+  },
+  {
+    "originalCode": "FW24",
+    "characterCode": "VI",
+    "name": "비올라",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/VI/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VI/9.png"
+  },
+  {
+    "originalCode": "FW24",
+    "characterCode": "VI",
+    "name": "비올라",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/VI/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VI/17.png"
+  },
+  {
+    "originalCode": "FW24",
+    "characterCode": "VI",
+    "name": "비올라",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/VI/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VI/34.png"
+  },
+  {
+    "originalCode": "FW25",
+    "characterCode": "ED",
+    "name": "에드윈",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/ED/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ED/1.png"
+  },
+  {
+    "originalCode": "FW25",
+    "characterCode": "ED",
+    "name": "에드윈",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/ED/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ED/2.png"
+  },
+  {
+    "originalCode": "FW25",
+    "characterCode": "ED",
+    "name": "에드윈",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/ED/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ED/3.png"
+  },
+  {
+    "originalCode": "FW25",
+    "characterCode": "ED",
+    "name": "에드윈",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/ED/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ED/4.png"
+  },
+  {
+    "originalCode": "FW25",
+    "characterCode": "ED",
+    "name": "에드윈",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/ED/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ED/5.png"
+  },
+  {
+    "originalCode": "FW25",
+    "characterCode": "ED",
+    "name": "에드윈",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/ED/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ED/7.png"
+  },
+  {
+    "originalCode": "FW25",
+    "characterCode": "ED",
+    "name": "에드윈",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/ED/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ED/8.png"
+  },
+  {
+    "originalCode": "FW25",
+    "characterCode": "ED",
+    "name": "에드윈",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/ED/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ED/9.png"
+  },
+  {
+    "originalCode": "FW25",
+    "characterCode": "ED",
+    "name": "에드윈",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/ED/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ED/17.png"
+  },
+  {
+    "originalCode": "FW25",
+    "characterCode": "ED",
+    "name": "에드윈",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/ED/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/ED/34.png"
+  },
+  {
+    "originalCode": "FW26",
+    "characterCode": "RZ",
+    "name": "리젤",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/RZ/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RZ/1.png"
+  },
+  {
+    "originalCode": "FW26",
+    "characterCode": "RZ",
+    "name": "리젤",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/RZ/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RZ/2.png"
+  },
+  {
+    "originalCode": "FW26",
+    "characterCode": "RZ",
+    "name": "리젤",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/RZ/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RZ/3.png"
+  },
+  {
+    "originalCode": "FW26",
+    "characterCode": "RZ",
+    "name": "리젤",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/RZ/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RZ/4.png"
+  },
+  {
+    "originalCode": "FW26",
+    "characterCode": "RZ",
+    "name": "리젤",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/RZ/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RZ/5.png"
+  },
+  {
+    "originalCode": "FW26",
+    "characterCode": "RZ",
+    "name": "리젤",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/RZ/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RZ/7.png"
+  },
+  {
+    "originalCode": "FW26",
+    "characterCode": "RZ",
+    "name": "리젤",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/RZ/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RZ/8.png"
+  },
+  {
+    "originalCode": "FW26",
+    "characterCode": "RZ",
+    "name": "리젤",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/RZ/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RZ/9.png"
+  },
+  {
+    "originalCode": "FW26",
+    "characterCode": "RZ",
+    "name": "리젤",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/RZ/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RZ/17.png"
+  },
+  {
+    "originalCode": "FW26",
+    "characterCode": "RZ",
+    "name": "리젤",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/RZ/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RZ/34.png"
+  },
+  {
+    "originalCode": "FW27",
+    "characterCode": "WA",
+    "name": "발터",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/WA/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/WA/1.png"
+  },
+  {
+    "originalCode": "FW27",
+    "characterCode": "WA",
+    "name": "발터",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/WA/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/WA/2.png"
+  },
+  {
+    "originalCode": "FW27",
+    "characterCode": "WA",
+    "name": "발터",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/WA/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/WA/3.png"
+  },
+  {
+    "originalCode": "FW27",
+    "characterCode": "WA",
+    "name": "발터",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/WA/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/WA/4.png"
+  },
+  {
+    "originalCode": "FW27",
+    "characterCode": "WA",
+    "name": "발터",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/WA/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/WA/5.png"
+  },
+  {
+    "originalCode": "FW27",
+    "characterCode": "WA",
+    "name": "발터",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/WA/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/WA/7.png"
+  },
+  {
+    "originalCode": "FW27",
+    "characterCode": "WA",
+    "name": "발터",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/WA/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/WA/8.png"
+  },
+  {
+    "originalCode": "FW27",
+    "characterCode": "WA",
+    "name": "발터",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/WA/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/WA/9.png"
+  },
+  {
+    "originalCode": "FW27",
+    "characterCode": "WA",
+    "name": "발터",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/WA/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/WA/17.png"
+  },
+  {
+    "originalCode": "FW27",
+    "characterCode": "WA",
+    "name": "발터",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/WA/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/WA/34.png"
+  },
+  {
+    "originalCode": "FW28",
+    "characterCode": "AL",
+    "name": "알라릭",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/AL/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AL/1.png"
+  },
+  {
+    "originalCode": "FW28",
+    "characterCode": "AL",
+    "name": "알라릭",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/AL/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AL/2.png"
+  },
+  {
+    "originalCode": "FW28",
+    "characterCode": "AL",
+    "name": "알라릭",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/AL/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AL/3.png"
+  },
+  {
+    "originalCode": "FW28",
+    "characterCode": "AL",
+    "name": "알라릭",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/AL/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AL/4.png"
+  },
+  {
+    "originalCode": "FW28",
+    "characterCode": "AL",
+    "name": "알라릭",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/AL/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AL/5.png"
+  },
+  {
+    "originalCode": "FW28",
+    "characterCode": "AL",
+    "name": "알라릭",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/AL/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AL/7.png"
+  },
+  {
+    "originalCode": "FW28",
+    "characterCode": "AL",
+    "name": "알라릭",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/AL/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AL/8.png"
+  },
+  {
+    "originalCode": "FW28",
+    "characterCode": "AL",
+    "name": "알라릭",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/AL/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AL/9.png"
+  },
+  {
+    "originalCode": "FW28",
+    "characterCode": "AL",
+    "name": "알라릭",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/AL/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AL/17.png"
+  },
+  {
+    "originalCode": "FW28",
+    "characterCode": "AL",
+    "name": "알라릭",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/AL/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/AL/34.png"
+  },
+  {
+    "originalCode": "FW29",
+    "characterCode": "SF",
+    "name": "세라피나",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/SF/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SF/1.png"
+  },
+  {
+    "originalCode": "FW29",
+    "characterCode": "SF",
+    "name": "세라피나",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/SF/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SF/2.png"
+  },
+  {
+    "originalCode": "FW29",
+    "characterCode": "SF",
+    "name": "세라피나",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/SF/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SF/3.png"
+  },
+  {
+    "originalCode": "FW29",
+    "characterCode": "SF",
+    "name": "세라피나",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/SF/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SF/4.png"
+  },
+  {
+    "originalCode": "FW29",
+    "characterCode": "SF",
+    "name": "세라피나",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/SF/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SF/5.png"
+  },
+  {
+    "originalCode": "FW29",
+    "characterCode": "SF",
+    "name": "세라피나",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/SF/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SF/7.png"
+  },
+  {
+    "originalCode": "FW29",
+    "characterCode": "SF",
+    "name": "세라피나",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/SF/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SF/8.png"
+  },
+  {
+    "originalCode": "FW29",
+    "characterCode": "SF",
+    "name": "세라피나",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/SF/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SF/9.png"
+  },
+  {
+    "originalCode": "FW29",
+    "characterCode": "SF",
+    "name": "세라피나",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/SF/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SF/17.png"
+  },
+  {
+    "originalCode": "FW29",
+    "characterCode": "SF",
+    "name": "세라피나",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/SF/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/SF/34.png"
+  },
+  {
+    "originalCode": "FW30",
+    "characterCode": "GR",
+    "name": "그레고르",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/GR/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/GR/1.png"
+  },
+  {
+    "originalCode": "FW30",
+    "characterCode": "GR",
+    "name": "그레고르",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/GR/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/GR/2.png"
+  },
+  {
+    "originalCode": "FW30",
+    "characterCode": "GR",
+    "name": "그레고르",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/GR/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/GR/3.png"
+  },
+  {
+    "originalCode": "FW30",
+    "characterCode": "GR",
+    "name": "그레고르",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/GR/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/GR/4.png"
+  },
+  {
+    "originalCode": "FW30",
+    "characterCode": "GR",
+    "name": "그레고르",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/GR/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/GR/5.png"
+  },
+  {
+    "originalCode": "FW30",
+    "characterCode": "GR",
+    "name": "그레고르",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/GR/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/GR/7.png"
+  },
+  {
+    "originalCode": "FW30",
+    "characterCode": "GR",
+    "name": "그레고르",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/GR/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/GR/8.png"
+  },
+  {
+    "originalCode": "FW30",
+    "characterCode": "GR",
+    "name": "그레고르",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/GR/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/GR/9.png"
+  },
+  {
+    "originalCode": "FW30",
+    "characterCode": "GR",
+    "name": "그레고르",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/GR/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/GR/17.png"
+  },
+  {
+    "originalCode": "FW30",
+    "characterCode": "GR",
+    "name": "그레고르",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/GR/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/GR/34.png"
+  },
+  {
+    "originalCode": "FW31",
+    "characterCode": "IO",
+    "name": "이졸데",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/IO/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IO/1.png"
+  },
+  {
+    "originalCode": "FW31",
+    "characterCode": "IO",
+    "name": "이졸데",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/IO/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IO/2.png"
+  },
+  {
+    "originalCode": "FW31",
+    "characterCode": "IO",
+    "name": "이졸데",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/IO/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IO/3.png"
+  },
+  {
+    "originalCode": "FW31",
+    "characterCode": "IO",
+    "name": "이졸데",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/IO/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IO/4.png"
+  },
+  {
+    "originalCode": "FW31",
+    "characterCode": "IO",
+    "name": "이졸데",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/IO/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IO/5.png"
+  },
+  {
+    "originalCode": "FW31",
+    "characterCode": "IO",
+    "name": "이졸데",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/IO/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IO/7.png"
+  },
+  {
+    "originalCode": "FW31",
+    "characterCode": "IO",
+    "name": "이졸데",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/IO/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IO/8.png"
+  },
+  {
+    "originalCode": "FW31",
+    "characterCode": "IO",
+    "name": "이졸데",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/IO/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IO/9.png"
+  },
+  {
+    "originalCode": "FW31",
+    "characterCode": "IO",
+    "name": "이졸데",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/IO/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IO/17.png"
+  },
+  {
+    "originalCode": "FW31",
+    "characterCode": "IO",
+    "name": "이졸데",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/IO/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IO/34.png"
+  },
+  {
+    "originalCode": "FW32",
+    "characterCode": "CS",
+    "name": "카시우스",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/CS/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CS/1.png"
+  },
+  {
+    "originalCode": "FW32",
+    "characterCode": "CS",
+    "name": "카시우스",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/CS/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CS/2.png"
+  },
+  {
+    "originalCode": "FW32",
+    "characterCode": "CS",
+    "name": "카시우스",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/CS/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CS/3.png"
+  },
+  {
+    "originalCode": "FW32",
+    "characterCode": "CS",
+    "name": "카시우스",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/CS/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CS/4.png"
+  },
+  {
+    "originalCode": "FW32",
+    "characterCode": "CS",
+    "name": "카시우스",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/CS/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CS/5.png"
+  },
+  {
+    "originalCode": "FW32",
+    "characterCode": "CS",
+    "name": "카시우스",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/CS/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CS/7.png"
+  },
+  {
+    "originalCode": "FW32",
+    "characterCode": "CS",
+    "name": "카시우스",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/CS/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CS/8.png"
+  },
+  {
+    "originalCode": "FW32",
+    "characterCode": "CS",
+    "name": "카시우스",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/CS/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CS/9.png"
+  },
+  {
+    "originalCode": "FW32",
+    "characterCode": "CS",
+    "name": "카시우스",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/CS/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CS/17.png"
+  },
+  {
+    "originalCode": "FW32",
+    "characterCode": "CS",
+    "name": "카시우스",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/CS/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CS/34.png"
+  },
+  {
+    "originalCode": "FW33",
+    "characterCode": "YU",
+    "name": "유리안",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/YU/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YU/1.png"
+  },
+  {
+    "originalCode": "FW33",
+    "characterCode": "YU",
+    "name": "유리안",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/YU/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YU/2.png"
+  },
+  {
+    "originalCode": "FW33",
+    "characterCode": "YU",
+    "name": "유리안",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/YU/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YU/3.png"
+  },
+  {
+    "originalCode": "FW33",
+    "characterCode": "YU",
+    "name": "유리안",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/YU/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YU/4.png"
+  },
+  {
+    "originalCode": "FW33",
+    "characterCode": "YU",
+    "name": "유리안",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/YU/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YU/5.png"
+  },
+  {
+    "originalCode": "FW33",
+    "characterCode": "YU",
+    "name": "유리안",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/YU/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YU/7.png"
+  },
+  {
+    "originalCode": "FW33",
+    "characterCode": "YU",
+    "name": "유리안",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/YU/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YU/8.png"
+  },
+  {
+    "originalCode": "FW33",
+    "characterCode": "YU",
+    "name": "유리안",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/YU/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YU/9.png"
+  },
+  {
+    "originalCode": "FW33",
+    "characterCode": "YU",
+    "name": "유리안",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/YU/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YU/17.png"
+  },
+  {
+    "originalCode": "FW33",
+    "characterCode": "YU",
+    "name": "유리안",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/YU/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/YU/34.png"
+  },
+  {
+    "originalCode": "FW34",
+    "characterCode": "RA",
+    "name": "레이첼",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/RA/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RA/1.png"
+  },
+  {
+    "originalCode": "FW34",
+    "characterCode": "RA",
+    "name": "레이첼",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/RA/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RA/2.png"
+  },
+  {
+    "originalCode": "FW34",
+    "characterCode": "RA",
+    "name": "레이첼",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/RA/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RA/3.png"
+  },
+  {
+    "originalCode": "FW34",
+    "characterCode": "RA",
+    "name": "레이첼",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/RA/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RA/4.png"
+  },
+  {
+    "originalCode": "FW34",
+    "characterCode": "RA",
+    "name": "레이첼",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/RA/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RA/5.png"
+  },
+  {
+    "originalCode": "FW34",
+    "characterCode": "RA",
+    "name": "레이첼",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/RA/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RA/7.png"
+  },
+  {
+    "originalCode": "FW34",
+    "characterCode": "RA",
+    "name": "레이첼",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/RA/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RA/8.png"
+  },
+  {
+    "originalCode": "FW34",
+    "characterCode": "RA",
+    "name": "레이첼",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/RA/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RA/9.png"
+  },
+  {
+    "originalCode": "FW34",
+    "characterCode": "RA",
+    "name": "레이첼",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/RA/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RA/17.png"
+  },
+  {
+    "originalCode": "FW34",
+    "characterCode": "RA",
+    "name": "레이첼",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/RA/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/RA/34.png"
+  },
+  {
+    "originalCode": "FW35",
+    "characterCode": "JC",
+    "name": "진 체이스",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/JC/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JC/1.png"
+  },
+  {
+    "originalCode": "FW35",
+    "characterCode": "JC",
+    "name": "진 체이스",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/JC/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JC/2.png"
+  },
+  {
+    "originalCode": "FW35",
+    "characterCode": "JC",
+    "name": "진 체이스",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/JC/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JC/3.png"
+  },
+  {
+    "originalCode": "FW35",
+    "characterCode": "JC",
+    "name": "진 체이스",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/JC/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JC/4.png"
+  },
+  {
+    "originalCode": "FW35",
+    "characterCode": "JC",
+    "name": "진 체이스",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/JC/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JC/5.png"
+  },
+  {
+    "originalCode": "FW35",
+    "characterCode": "JC",
+    "name": "진 체이스",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/JC/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JC/7.png"
+  },
+  {
+    "originalCode": "FW35",
+    "characterCode": "JC",
+    "name": "진 체이스",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/JC/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JC/8.png"
+  },
+  {
+    "originalCode": "FW35",
+    "characterCode": "JC",
+    "name": "진 체이스",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/JC/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JC/9.png"
+  },
+  {
+    "originalCode": "FW35",
+    "characterCode": "JC",
+    "name": "진 체이스",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/JC/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JC/17.png"
+  },
+  {
+    "originalCode": "FW35",
+    "characterCode": "JC",
+    "name": "진 체이스",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/JC/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JC/34.png"
+  },
+  {
+    "originalCode": "FW36",
+    "characterCode": "CD",
+    "name": "시엘 다이아",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/CD/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CD/1.png"
+  },
+  {
+    "originalCode": "FW36",
+    "characterCode": "CD",
+    "name": "시엘 다이아",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/CD/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CD/2.png"
+  },
+  {
+    "originalCode": "FW36",
+    "characterCode": "CD",
+    "name": "시엘 다이아",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/CD/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CD/3.png"
+  },
+  {
+    "originalCode": "FW36",
+    "characterCode": "CD",
+    "name": "시엘 다이아",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/CD/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CD/4.png"
+  },
+  {
+    "originalCode": "FW36",
+    "characterCode": "CD",
+    "name": "시엘 다이아",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/CD/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CD/5.png"
+  },
+  {
+    "originalCode": "FW36",
+    "characterCode": "CD",
+    "name": "시엘 다이아",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/CD/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CD/7.png"
+  },
+  {
+    "originalCode": "FW36",
+    "characterCode": "CD",
+    "name": "시엘 다이아",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/CD/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CD/8.png"
+  },
+  {
+    "originalCode": "FW36",
+    "characterCode": "CD",
+    "name": "시엘 다이아",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/CD/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CD/9.png"
+  },
+  {
+    "originalCode": "FW36",
+    "characterCode": "CD",
+    "name": "시엘 다이아",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/CD/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CD/17.png"
+  },
+  {
+    "originalCode": "FW36",
+    "characterCode": "CD",
+    "name": "시엘 다이아",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/CD/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CD/34.png"
+  },
+  {
+    "originalCode": "FW37",
+    "characterCode": "MD",
+    "name": "메리 다이아",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/MD/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MD/1.png"
+  },
+  {
+    "originalCode": "FW37",
+    "characterCode": "MD",
+    "name": "메리 다이아",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/MD/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MD/2.png"
+  },
+  {
+    "originalCode": "FW37",
+    "characterCode": "MD",
+    "name": "메리 다이아",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/MD/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MD/3.png"
+  },
+  {
+    "originalCode": "FW37",
+    "characterCode": "MD",
+    "name": "메리 다이아",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/MD/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MD/4.png"
+  },
+  {
+    "originalCode": "FW37",
+    "characterCode": "MD",
+    "name": "메리 다이아",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/MD/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MD/5.png"
+  },
+  {
+    "originalCode": "FW37",
+    "characterCode": "MD",
+    "name": "메리 다이아",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/MD/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MD/7.png"
+  },
+  {
+    "originalCode": "FW37",
+    "characterCode": "MD",
+    "name": "메리 다이아",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/MD/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MD/8.png"
+  },
+  {
+    "originalCode": "FW37",
+    "characterCode": "MD",
+    "name": "메리 다이아",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/MD/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MD/9.png"
+  },
+  {
+    "originalCode": "FW37",
+    "characterCode": "MD",
+    "name": "메리 다이아",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/MD/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MD/17.png"
+  },
+  {
+    "originalCode": "FW37",
+    "characterCode": "MD",
+    "name": "메리 다이아",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/MD/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/MD/34.png"
+  },
+  {
+    "originalCode": "FW38",
+    "characterCode": "KY",
+    "name": "카이런",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/KY/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KY/1.png"
+  },
+  {
+    "originalCode": "FW38",
+    "characterCode": "KY",
+    "name": "카이런",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/KY/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KY/2.png"
+  },
+  {
+    "originalCode": "FW38",
+    "characterCode": "KY",
+    "name": "카이런",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/KY/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KY/3.png"
+  },
+  {
+    "originalCode": "FW38",
+    "characterCode": "KY",
+    "name": "카이런",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/KY/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KY/4.png"
+  },
+  {
+    "originalCode": "FW38",
+    "characterCode": "KY",
+    "name": "카이런",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/KY/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KY/5.png"
+  },
+  {
+    "originalCode": "FW38",
+    "characterCode": "KY",
+    "name": "카이런",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/KY/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KY/7.png"
+  },
+  {
+    "originalCode": "FW38",
+    "characterCode": "KY",
+    "name": "카이런",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/KY/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KY/8.png"
+  },
+  {
+    "originalCode": "FW38",
+    "characterCode": "KY",
+    "name": "카이런",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/KY/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KY/9.png"
+  },
+  {
+    "originalCode": "FW38",
+    "characterCode": "KY",
+    "name": "카이런",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/KY/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KY/17.png"
+  },
+  {
+    "originalCode": "FW38",
+    "characterCode": "KY",
+    "name": "카이런",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/KY/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/KY/34.png"
+  },
+  {
+    "originalCode": "FW39",
+    "characterCode": "CH",
+    "name": "클로에 델런",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/CH/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CH/1.png"
+  },
+  {
+    "originalCode": "FW39",
+    "characterCode": "CH",
+    "name": "클로에 델런",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/CH/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CH/2.png"
+  },
+  {
+    "originalCode": "FW39",
+    "characterCode": "CH",
+    "name": "클로에 델런",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/CH/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CH/3.png"
+  },
+  {
+    "originalCode": "FW39",
+    "characterCode": "CH",
+    "name": "클로에 델런",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/CH/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CH/4.png"
+  },
+  {
+    "originalCode": "FW39",
+    "characterCode": "CH",
+    "name": "클로에 델런",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/CH/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CH/5.png"
+  },
+  {
+    "originalCode": "FW39",
+    "characterCode": "CH",
+    "name": "클로에 델런",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/CH/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CH/7.png"
+  },
+  {
+    "originalCode": "FW39",
+    "characterCode": "CH",
+    "name": "클로에 델런",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/CH/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CH/8.png"
+  },
+  {
+    "originalCode": "FW39",
+    "characterCode": "CH",
+    "name": "클로에 델런",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/CH/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CH/9.png"
+  },
+  {
+    "originalCode": "FW39",
+    "characterCode": "CH",
+    "name": "클로에 델런",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/CH/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CH/17.png"
+  },
+  {
+    "originalCode": "FW39",
+    "characterCode": "CH",
+    "name": "클로에 델런",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/CH/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/CH/34.png"
+  },
+  {
+    "originalCode": "FW40",
+    "characterCode": "LO",
+    "name": "레온",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/LO/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LO/1.png"
+  },
+  {
+    "originalCode": "FW40",
+    "characterCode": "LO",
+    "name": "레온",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/LO/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LO/2.png"
+  },
+  {
+    "originalCode": "FW40",
+    "characterCode": "LO",
+    "name": "레온",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/LO/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LO/3.png"
+  },
+  {
+    "originalCode": "FW40",
+    "characterCode": "LO",
+    "name": "레온",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/LO/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LO/4.png"
+  },
+  {
+    "originalCode": "FW40",
+    "characterCode": "LO",
+    "name": "레온",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/LO/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LO/5.png"
+  },
+  {
+    "originalCode": "FW40",
+    "characterCode": "LO",
+    "name": "레온",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/LO/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LO/7.png"
+  },
+  {
+    "originalCode": "FW40",
+    "characterCode": "LO",
+    "name": "레온",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/LO/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LO/8.png"
+  },
+  {
+    "originalCode": "FW40",
+    "characterCode": "LO",
+    "name": "레온",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/LO/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LO/9.png"
+  },
+  {
+    "originalCode": "FW40",
+    "characterCode": "LO",
+    "name": "레온",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/LO/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LO/17.png"
+  },
+  {
+    "originalCode": "FW40",
+    "characterCode": "LO",
+    "name": "레온",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/LO/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/LO/34.png"
+  },
+  {
+    "originalCode": "FW41",
+    "characterCode": "VE",
+    "name": "베라",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/VE/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VE/1.png"
+  },
+  {
+    "originalCode": "FW41",
+    "characterCode": "VE",
+    "name": "베라",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/VE/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VE/2.png"
+  },
+  {
+    "originalCode": "FW41",
+    "characterCode": "VE",
+    "name": "베라",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/VE/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VE/3.png"
+  },
+  {
+    "originalCode": "FW41",
+    "characterCode": "VE",
+    "name": "베라",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/VE/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VE/4.png"
+  },
+  {
+    "originalCode": "FW41",
+    "characterCode": "VE",
+    "name": "베라",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/VE/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VE/5.png"
+  },
+  {
+    "originalCode": "FW41",
+    "characterCode": "VE",
+    "name": "베라",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/VE/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VE/7.png"
+  },
+  {
+    "originalCode": "FW41",
+    "characterCode": "VE",
+    "name": "베라",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/VE/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VE/8.png"
+  },
+  {
+    "originalCode": "FW41",
+    "characterCode": "VE",
+    "name": "베라",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/VE/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VE/9.png"
+  },
+  {
+    "originalCode": "FW41",
+    "characterCode": "VE",
+    "name": "베라",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/VE/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VE/17.png"
+  },
+  {
+    "originalCode": "FW41",
+    "characterCode": "VE",
+    "name": "베라",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/VE/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VE/34.png"
+  },
+  {
+    "originalCode": "FW42",
+    "characterCode": "JW",
+    "name": "한재우",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/JW/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JW/1.png"
+  },
+  {
+    "originalCode": "FW42",
+    "characterCode": "JW",
+    "name": "한재우",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/JW/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JW/2.png"
+  },
+  {
+    "originalCode": "FW42",
+    "characterCode": "JW",
+    "name": "한재우",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/JW/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JW/3.png"
+  },
+  {
+    "originalCode": "FW42",
+    "characterCode": "JW",
+    "name": "한재우",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/JW/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JW/4.png"
+  },
+  {
+    "originalCode": "FW42",
+    "characterCode": "JW",
+    "name": "한재우",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/JW/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JW/5.png"
+  },
+  {
+    "originalCode": "FW42",
+    "characterCode": "JW",
+    "name": "한재우",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/JW/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JW/7.png"
+  },
+  {
+    "originalCode": "FW42",
+    "characterCode": "JW",
+    "name": "한재우",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/JW/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JW/8.png"
+  },
+  {
+    "originalCode": "FW42",
+    "characterCode": "JW",
+    "name": "한재우",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/JW/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JW/9.png"
+  },
+  {
+    "originalCode": "FW42",
+    "characterCode": "JW",
+    "name": "한재우",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/JW/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JW/17.png"
+  },
+  {
+    "originalCode": "FW42",
+    "characterCode": "JW",
+    "name": "한재우",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/JW/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/JW/34.png"
+  },
+  {
+    "originalCode": "FW43",
+    "characterCode": "EM",
+    "name": "에드몽",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/EM/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/EM/1.png"
+  },
+  {
+    "originalCode": "FW43",
+    "characterCode": "EM",
+    "name": "에드몽",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/EM/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/EM/2.png"
+  },
+  {
+    "originalCode": "FW43",
+    "characterCode": "EM",
+    "name": "에드몽",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/EM/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/EM/3.png"
+  },
+  {
+    "originalCode": "FW43",
+    "characterCode": "EM",
+    "name": "에드몽",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/EM/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/EM/4.png"
+  },
+  {
+    "originalCode": "FW43",
+    "characterCode": "EM",
+    "name": "에드몽",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/EM/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/EM/5.png"
+  },
+  {
+    "originalCode": "FW43",
+    "characterCode": "EM",
+    "name": "에드몽",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/EM/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/EM/7.png"
+  },
+  {
+    "originalCode": "FW43",
+    "characterCode": "EM",
+    "name": "에드몽",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/EM/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/EM/8.png"
+  },
+  {
+    "originalCode": "FW43",
+    "characterCode": "EM",
+    "name": "에드몽",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/EM/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/EM/9.png"
+  },
+  {
+    "originalCode": "FW43",
+    "characterCode": "EM",
+    "name": "에드몽",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/EM/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/EM/17.png"
+  },
+  {
+    "originalCode": "FW43",
+    "characterCode": "EM",
+    "name": "에드몽",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/EM/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/EM/34.png"
+  },
+  {
+    "originalCode": "FW44",
+    "characterCode": "IB",
+    "name": "이사벨",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/IB/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IB/1.png"
+  },
+  {
+    "originalCode": "FW44",
+    "characterCode": "IB",
+    "name": "이사벨",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/IB/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IB/2.png"
+  },
+  {
+    "originalCode": "FW44",
+    "characterCode": "IB",
+    "name": "이사벨",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/IB/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IB/3.png"
+  },
+  {
+    "originalCode": "FW44",
+    "characterCode": "IB",
+    "name": "이사벨",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/IB/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IB/4.png"
+  },
+  {
+    "originalCode": "FW44",
+    "characterCode": "IB",
+    "name": "이사벨",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/IB/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IB/5.png"
+  },
+  {
+    "originalCode": "FW44",
+    "characterCode": "IB",
+    "name": "이사벨",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/IB/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IB/7.png"
+  },
+  {
+    "originalCode": "FW44",
+    "characterCode": "IB",
+    "name": "이사벨",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/IB/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IB/8.png"
+  },
+  {
+    "originalCode": "FW44",
+    "characterCode": "IB",
+    "name": "이사벨",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/IB/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IB/9.png"
+  },
+  {
+    "originalCode": "FW44",
+    "characterCode": "IB",
+    "name": "이사벨",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/IB/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IB/17.png"
+  },
+  {
+    "originalCode": "FW44",
+    "characterCode": "IB",
+    "name": "이사벨",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/IB/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/IB/34.png"
+  },
+  {
+    "originalCode": "FW45",
+    "characterCode": "VH",
+    "name": "빅토르 할렌",
+    "number": 1,
+    "expression": "기본",
+    "path": "img/VH/1.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VH/1.png"
+  },
+  {
+    "originalCode": "FW45",
+    "characterCode": "VH",
+    "name": "빅토르 할렌",
+    "number": 2,
+    "expression": "기쁜",
+    "path": "img/VH/2.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VH/2.png"
+  },
+  {
+    "originalCode": "FW45",
+    "characterCode": "VH",
+    "name": "빅토르 할렌",
+    "number": 3,
+    "expression": "걱정",
+    "path": "img/VH/3.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VH/3.png"
+  },
+  {
+    "originalCode": "FW45",
+    "characterCode": "VH",
+    "name": "빅토르 할렌",
+    "number": 4,
+    "expression": "분노",
+    "path": "img/VH/4.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VH/4.png"
+  },
+  {
+    "originalCode": "FW45",
+    "characterCode": "VH",
+    "name": "빅토르 할렌",
+    "number": 5,
+    "expression": "슬픈",
+    "path": "img/VH/5.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VH/5.png"
+  },
+  {
+    "originalCode": "FW45",
+    "characterCode": "VH",
+    "name": "빅토르 할렌",
+    "number": 7,
+    "expression": "놀란",
+    "path": "img/VH/7.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VH/7.png"
+  },
+  {
+    "originalCode": "FW45",
+    "characterCode": "VH",
+    "name": "빅토르 할렌",
+    "number": 8,
+    "expression": "경멸",
+    "path": "img/VH/8.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VH/8.png"
+  },
+  {
+    "originalCode": "FW45",
+    "characterCode": "VH",
+    "name": "빅토르 할렌",
+    "number": 9,
+    "expression": "부끄러운",
+    "path": "img/VH/9.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VH/9.png"
+  },
+  {
+    "originalCode": "FW45",
+    "characterCode": "VH",
+    "name": "빅토르 할렌",
+    "number": 17,
+    "expression": "당황",
+    "path": "img/VH/17.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VH/17.png"
+  },
+  {
+    "originalCode": "FW45",
+    "characterCode": "VH",
+    "name": "빅토르 할렌",
+    "number": 34,
+    "expression": "무표정",
+    "path": "img/VH/34.png",
+    "rawUrl": "https://raw.githubusercontent.com/minimi135/makoto-character-images/main/img/VH/34.png"
+  }
+]

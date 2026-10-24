@@ -1,0 +1,227 @@
+[
+  {
+    "originalCode": "FW01",
+    "code": "ER",
+    "name": "에리시아 로도노프"
+  },
+  {
+    "originalCode": "FW02",
+    "code": "LE",
+    "name": "레나 로도노프"
+  },
+  {
+    "originalCode": "FW03",
+    "code": "KA",
+    "name": "카린 로도노프"
+  },
+  {
+    "originalCode": "FW04",
+    "code": "JO",
+    "name": "조시 로도노프"
+  },
+  {
+    "originalCode": "FW05",
+    "code": "DA",
+    "name": "다니엘 로도노프"
+  },
+  {
+    "originalCode": "FW06",
+    "code": "IR",
+    "name": "이리나 세벨린"
+  },
+  {
+    "originalCode": "FW07",
+    "code": "NI",
+    "name": "니콜라이 로도노프"
+  },
+  {
+    "originalCode": "FW08",
+    "code": "SE",
+    "name": "한설아"
+  },
+  {
+    "originalCode": "FW09",
+    "code": "SA",
+    "name": "세라"
+  },
+  {
+    "originalCode": "FW10",
+    "code": "NO",
+    "name": "노엘"
+  },
+  {
+    "originalCode": "FW11",
+    "code": "RI",
+    "name": "리안"
+  },
+  {
+    "originalCode": "FW12",
+    "code": "DO",
+    "name": "도영"
+  },
+  {
+    "originalCode": "FW13",
+    "code": "MA",
+    "name": "마리"
+  },
+  {
+    "originalCode": "FW14",
+    "code": "SH",
+    "name": "서하준"
+  },
+  {
+    "originalCode": "FW15",
+    "code": "KJ",
+    "name": "강지민"
+  },
+  {
+    "originalCode": "FW16",
+    "code": "LI",
+    "name": "리제트"
+  },
+  {
+    "originalCode": "FW17",
+    "code": "RO",
+    "name": "로잘리"
+  },
+  {
+    "originalCode": "FW18",
+    "code": "SR",
+    "name": "이서린"
+  },
+  {
+    "originalCode": "FW19",
+    "code": "SS",
+    "name": "백승재"
+  },
+  {
+    "originalCode": "FW20",
+    "code": "HA",
+    "name": "하윤"
+  },
+  {
+    "originalCode": "FW21",
+    "code": "YT",
+    "name": "윤태성"
+  },
+  {
+    "originalCode": "FW22",
+    "code": "IS",
+    "name": "이리스"
+  },
+  {
+    "originalCode": "FW23",
+    "code": "AR",
+    "name": "아리아"
+  },
+  {
+    "originalCode": "FW24",
+    "code": "VI",
+    "name": "비올라"
+  },
+  {
+    "originalCode": "FW25",
+    "code": "ED",
+    "name": "에드윈"
+  },
+  {
+    "originalCode": "FW26",
+    "code": "RZ",
+    "name": "리젤"
+  },
+  {
+    "originalCode": "FW27",
+    "code": "WA",
+    "name": "발터"
+  },
+  {
+    "originalCode": "FW28",
+    "code": "AL",
+    "name": "알라릭"
+  },
+  {
+    "originalCode": "FW29",
+    "code": "SF",
+    "name": "세라피나"
+  },
+  {
+    "originalCode": "FW30",
+    "code": "GR",
+    "name": "그레고르"
+  },
+  {
+    "originalCode": "FW31",
+    "code": "IO",
+    "name": "이졸데"
+  },
+  {
+    "originalCode": "FW32",
+    "code": "CS",
+    "name": "카시우스"
+  },
+  {
+    "originalCode": "FW33",
+    "code": "YU",
+    "name": "유리안"
+  },
+  {
+    "originalCode": "FW34",
+    "code": "RA",
+    "name": "레이첼"
+  },
+  {
+    "originalCode": "FW35",
+    "code": "JC",
+    "name": "진 체이스"
+  },
+  {
+    "originalCode": "FW36",
+    "code": "CD",
+    "name": "시엘 다이아"
+  },
+  {
+    "originalCode": "FW37",
+    "code": "MD",
+    "name": "메리 다이아"
+  },
+  {
+    "originalCode": "FW38",
+    "code": "KY",
+    "name": "카이런"
+  },
+  {
+    "originalCode": "FW39",
+    "code": "CH",
+    "name": "클로에 델런"
+  },
+  {
+    "originalCode": "FW40",
+    "code": "LO",
+    "name": "레온"
+  },
+  {
+    "originalCode": "FW41",
+    "code": "VE",
+    "name": "베라"
+  },
+  {
+    "originalCode": "FW42",
+    "code": "JW",
+    "name": "한재우"
+  },
+  {
+    "originalCode": "FW43",
+    "code": "EM",
+    "name": "에드몽"
+  },
+  {
+    "originalCode": "FW44",
+    "code": "IB",
+    "name": "이사벨"
+  },
+  {
+    "originalCode": "FW45",
+    "code": "VH",
+    "name": "빅토르 할렌"
+  }
+]
